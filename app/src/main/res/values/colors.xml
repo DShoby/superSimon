@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="titre">#CCFF00</color>
+
+    <color name="btnNiv1">#33CC00</color>
+    <color name="btnNiv2">#0000FF</color>
+    <color name="btnNiv3">#FF0000</color>
+
+    <color name="jaune">#CCFF00</color>
+    <color name="rouge">#FF0000</color>
+    <color name="vert">#33CC00</color>
+    <color name="bleu">#0000CC</color>
+
+
+</resources>
