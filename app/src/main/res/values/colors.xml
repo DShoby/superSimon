@@ -4,16 +4,18 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
-    <color name="titre">#CCFF00</color>
-
-    <color name="btnNiv1">#33CC00</color>
-    <color name="btnNiv2">#0000FF</color>
-    <color name="btnNiv3">#FF0000</color>
-
     <color name="jaune">#CCFF00</color>
     <color name="rouge">#FF0000</color>
     <color name="vert">#33CC00</color>
     <color name="bleu">#0000CC</color>
+    <color name="violet">#9832A6</color>
+    <color name="orange">#FFAE00</color>
+    <color name="orangePale">#E0F27C</color>
+    <color name="turquoise">#00FBFF</color>
+    <color name="vertFonce">#257D1B</color>
+    <color name="rose">#FF8FFB</color>
+    <color name="blanc">#FFFFFF</color>
+    <color name="noir">#000</color>
 
 
 </resources>

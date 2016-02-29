@@ -12,6 +12,10 @@
         "source": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
+        "merged": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_game_over.xml",
+        "source": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\layout\\content_game_over.xml"
+    },
+    {
         "merged": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
     },
@@ -32,12 +36,20 @@
         "source": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
+        "merged": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game_over.xml",
+        "source": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\layout\\activity_game_over.xml"
+    },
+    {
         "merged": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
         "merged": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
         "source": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_meilleur_score.xml",
+        "source": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\layout\\content_meilleur_score.xml"
     },
     {
         "merged": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
@@ -214,6 +226,10 @@
     {
         "merged": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
         "source": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_meilleur_score.xml",
+        "source": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\layout\\activity_meilleur_score.xml"
     },
     {
         "merged": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",

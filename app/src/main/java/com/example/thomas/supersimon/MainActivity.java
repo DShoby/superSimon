@@ -10,6 +10,7 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Button;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -19,18 +20,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        /*Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
-
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });*/
 
         final Button btnFacile = (Button) findViewById(R.id.idButtonNiv1);
         btnFacile.setOnClickListener(new View.OnClickListener() {
@@ -53,9 +42,16 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        final Button btnMeilleurScore = (Button) findViewById(R.id.idButtonMeilleurScore);
+        btnMeilleurScore.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                meilleurScore(v);
+            }
+        });
 
         System.out.println("MainActivity.onCreate");
     }
+
 
     @Override
     protected void onStart() {
@@ -126,7 +122,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void levelDifficile(View v){
-        Intent intentDIfficile = new Intent(this, DifficileActivity.class);
-        startActivity(intentDIfficile);
+        Intent intentDifficile = new Intent(this, DifficileActivity.class);
+        startActivity(intentDifficile);
+    }
+
+    public void meilleurScore(View v){
+        Intent intentMS = new Intent(this, MeilleurScoreActivity.class);
+        startActivity(intentMS);
     }
 }

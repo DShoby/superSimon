@@ -1,5 +1,6 @@
 package com.example.thomas.supersimon;
 
+import android.app.Activity;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -8,23 +9,18 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
 
+import java.util.Timer;
+import java.util.TimerTask;
+
 public class FacileActivity extends AppCompatActivity {
+
+    private int timer_tick = 2000;
+    private boolean en_jeu = true;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_facile);
-        /*Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
-
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });*/
 
         final Button btnRetour = (Button) findViewById(R.id.idButtonRetour);
         btnRetour.setOnClickListener(new View.OnClickListener() {
@@ -46,20 +42,20 @@ public class FacileActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
-        System.out.println("FacileActivity.onStart");
+            System.out.println("FacileActivity.onStart");
     }
 
     @Override
     protected void onResume() {
         super.onResume();
-        System.out.println("FacileActivity.onResume");
-    }
+            System.out.println("FacileActivity.onResume");
+        }
 
-    @Override
+        @Override
     protected void onRestart() {
         super.onRestart();
         System.out.println("FacileActivity.onRestart");
-    }
+        }
 
     @Override
     protected void onPause() {
@@ -73,7 +69,7 @@ public class FacileActivity extends AppCompatActivity {
         super.onStop();
     }
 
-    @Override
+        @Override
     protected void onDestroy() {
         System.out.println("FacileActivity.onDestroy");
         super.onDestroy();

@@ -49,7 +49,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:background="@color/jaune"
+                android:background="@color/turquoise"
                 android:text="@string/btnNiv2_1"
                 android:id="@+id/idButtonNiv2_1" />
         </LinearLayout>
@@ -81,7 +81,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:background="@color/vert"
+                android:background="@color/violet"
                 android:text="@string/btnNiv2_2"
                 android:id="@+id/idButtonNiv2_2" />
         </LinearLayout>
@@ -98,21 +98,21 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:background="@color/rouge"
+                android:background="@color/rose"
                 android:text="@string/btnNiv3_1"
                 android:id="@+id/idButtonNiv3_1" />
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:background="@color/jaune"
+                android:background="@color/orange"
                 android:text="@string/btnNiv3_2"
                 android:id="@+id/idButtonNiv3_2" />
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:background="@color/rouge"
+                android:background="@color/vertFonce"
                 android:text="@string/btnNiv3_3"
                 android:id="@+id/idButtonNiv3_3" />
         </LinearLayout>
@@ -129,14 +129,22 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="@string/btnRetour"
-                android:id="@+id/idButtonRetour" />
+                android:textSize="@dimen/bouton"
+                android:textStyle="bold"
+                android:textColor="@color/blanc"
+                android:id="@+id/idButtonRetour"
+                android:background="@drawable/buttonshape"/>
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="@string/btnRejouer"
-                android:id="@+id/idButtonRejouer" />
+                android:textSize="@dimen/bouton"
+                android:textStyle="bold"
+                android:textColor="@color/blanc"
+                android:id="@+id/idButtonRejouer"
+                android:background="@drawable/buttonshape"/>
         </LinearLayout>
 
     </LinearLayout>

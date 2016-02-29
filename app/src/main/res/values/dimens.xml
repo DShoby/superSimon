@@ -4,7 +4,12 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
 
-    <dimen name="titre_font_size">30sp</dimen>
+    <dimen name="titre">50sp</dimen>
+    <dimen name="petitTitre">40sp</dimen>
+    <dimen name="grosTexte">30sp</dimen>
+    <dimen name="texte">25sp</dimen>
+    <dimen name="boutonNiveau">20sp</dimen>
+    <dimen name="bouton">25sp</dimen>
 
 
 </resources>

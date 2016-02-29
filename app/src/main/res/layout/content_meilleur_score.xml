@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.thomas.supersimon.MeilleurScoreActivity"
+    tools:showIn="@layout/activity_meilleur_score">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/petitTitre"
+        android:textStyle="bold"
+        android:textColor="@color/noir"
+        android:text="@string/meilleurScoreTitre"
+        android:id="@+id/meilleurScoreTitre"
+        android:layout_centerHorizontal="true" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/linearLayout"
+        android:layout_below="@+id/meilleurScoreTitre">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/space"/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/linearLayout1">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/texte"
+                android:text="@string/meilleurFacile"
+                android:id="@+id/meilleurFacile" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/texte"
+                android:id="@+id/numMeilleurFacile" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/linearLayout2">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/texte"
+                android:text="@string/meilleurMoyen"
+                android:id="@+id/meilleurMoyen" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/texte"
+                android:id="@+id/numMeilleurMoyen" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/linearLayout3">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/texte"
+                android:text="@string/meilleurDifficile"
+                android:id="@+id/meilleurDifficile" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/texte"
+                android:id="@+id/numMeilleurDifficile" />
+
+        </LinearLayout>
+
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/btnMenuPrincipal"
+            android:textSize="@dimen/bouton"
+            android:textStyle="bold"
+            android:textColor="@color/blanc"
+            android:id="@+id/idButtonMenuPrincipal"
+            android:background="@drawable/buttonshape"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="+ 1"
+            android:textSize="@dimen/bouton"
+            android:textStyle="bold"
+            android:textColor="@color/blanc"
+            android:id="@+id/idButtonRejouer"
+            android:background="@drawable/buttonshape"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/space2"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

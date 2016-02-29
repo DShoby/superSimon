@@ -29,6 +29,14 @@
         <activity
             android:name=".DifficileActivity"
             android:label="@string/title_activity_difficile"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GameOverActivity"
+            android:label="@string/title_activity_game_over"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MeilleurScoreActivity"
+            android:label="@string/title_activity_meilleur_score"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

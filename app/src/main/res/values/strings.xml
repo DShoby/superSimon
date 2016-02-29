@@ -6,6 +6,7 @@
     <string name="btnNiv1">Facile</string>
     <string name="btnNiv2">Normale</string>
     <string name="btnNiv3">Difficile</string>
+    <string name="btnMeilleurScore">Meilleurs scores</string>
 
     <string name="title_activity_facile">FacileActivity</string>
     <string name="btnRetour">Retour</string>
@@ -24,5 +25,20 @@
     <string name="btnNiv3_1"></string>
     <string name="btnNiv3_2"></string>
     <string name="btnNiv3_3"></string>
+
+    <string name="title_activity_game_over">GameOverActivity</string>
+    <string name="gameover">GAME OVER</string>
+    <string name="score">Score</string>
+    <string name="numScore"></string>
+    <string name="btnMenuPrincipal">Menu principal</string>
+
+    <string name="title_activity_meilleur_score">MeilleurScoreActivity</string>
+    <string name="meilleurScoreTitre">Meilleurs Scores</string>
+    <string name="meilleurFacile">Facile : </string>
+    <string name="numScoreFacile"></string>
+    <string name="meilleurMoyen">Moyen : </string>
+    <string name="numScoreMoyen"></string>
+    <string name="meilleurDifficile">Difficile : </string>
+    <string name="numScoreDIfficile"></string>
 
 </resources>

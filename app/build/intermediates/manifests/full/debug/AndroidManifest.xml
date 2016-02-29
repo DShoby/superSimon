@@ -36,6 +36,14 @@
             android:name="com.example.thomas.supersimon.DifficileActivity"
             android:label="@string/title_activity_difficile"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.thomas.supersimon.GameOverActivity"
+            android:label="@string/title_activity_game_over"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.thomas.supersimon.MeilleurScoreActivity"
+            android:label="@string/title_activity_meilleur_score"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>

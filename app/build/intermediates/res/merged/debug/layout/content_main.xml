@@ -17,9 +17,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="@dimen/titre_font_size"
+        android:textSize="@dimen/titre"
         android:textStyle="bold"
-        android:textColor="@color/titre"
+        android:textColor="@color/jaune"
         android:text="@string/titre"
         android:id="@+id/titre"
         android:layout_centerHorizontal="true" />
@@ -28,9 +28,10 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/btnNiv1"
+        android:background="@color/vert"
         android:textStyle="italic"
         android:text="@string/btnNiv1"
+        android:textSize="@dimen/boutonNiveau"
         android:id="@+id/idButtonNiv1"
         android:layout_centerHorizontal="true"
         android:layout_above="@+id/idButtonNiv2"/>
@@ -38,9 +39,10 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/btnNiv2"
+        android:background="@color/bleu"
         android:textStyle="italic"
         android:text="@string/btnNiv2"
+        android:textSize="@dimen/boutonNiveau"
         android:id="@+id/idButtonNiv2"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"/>
@@ -48,11 +50,22 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/btnNiv3"
+        android:background="@color/rouge"
         android:textStyle="italic"
         android:text="@string/btnNiv3"
+        android:textSize="@dimen/boutonNiveau"
         android:id="@+id/idButtonNiv3"
         android:layout_centerHorizontal="true"
         android:layout_below="@+id/idButtonNiv2"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/blanc"
+        android:text="@string/btnMeilleurScore"
+        android:textSize="@dimen/boutonNiveau"
+        android:id="@+id/idButtonMeilleurScore"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/idButtonNiv3"/>
 
 </RelativeLayout>
