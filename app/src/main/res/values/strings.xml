@@ -4,7 +4,7 @@
 
     <string name="titre">Super Simon</string>
     <string name="btnNiv1">Facile</string>
-    <string name="btnNiv2">Normale</string>
+    <string name="btnNiv2">Moyen</string>
     <string name="btnNiv3">Difficile</string>
     <string name="btnMeilleurScore">Meilleurs scores</string>
 

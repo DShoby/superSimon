@@ -1,5 +1,10 @@
 package com.example.thomas.supersimon;
 
+import java.util.Timer;
+import java.util.TimerTask;
+import android.app.Activity;
+import android.os.Bundle;
+import android.widget.TextView;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

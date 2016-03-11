@@ -11,14 +11,14 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.example.thomas.supersimon.GameOverActivity"
     tools:showIn="@layout/activity_game_over"
-    android:background="@color/orangePale">
+    android:background="@color/noir">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/titre"
         android:textStyle="bold"
-        android:textColor="@color/rouge"
+        android:textColor="@color/violet"
         android:text="@string/gameover"
         android:id="@+id/gameover"
         android:layout_centerHorizontal="true" />
@@ -51,18 +51,17 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:textSize="@dimen/texte"
-            android:text="@string/meilleurFacile"
-            android:textColor="@color/noir"
-            android:id="@+id/meilleurFacile" />
+            android:text="@string/score"
+            android:textColor="@color/blanc"
+            android:id="@+id/scoreGO" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:textSize="@dimen/texte"
-            android:textColor="@color/noir"
-            android:hint="0"
-            android:id="@+id/numMeilleurFacile" />
+            android:textColor="@color/blanc"
+            android:id="@+id/numScoreGO" />
 
         </LinearLayout>
 
@@ -73,7 +72,7 @@
             android:text="@string/btnMenuPrincipal"
             android:textSize="@dimen/bouton"
             android:textStyle="bold"
-            android:textColor="@color/blanc"
+            android:textColor="@color/violet"
             android:id="@+id/idButtonMenuPrincipal"
             android:background="@drawable/buttongameover"/>
 
@@ -84,7 +83,7 @@
             android:text="@string/btnRejouer"
             android:textSize="@dimen/bouton"
             android:textStyle="bold"
-            android:textColor="@color/blanc"
+            android:textColor="@color/violet"
             android:id="@+id/idButtonRejouer"
             android:background="@drawable/buttongameover"/>
 

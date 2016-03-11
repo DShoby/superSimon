@@ -4,16 +4,36 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
-    <color name="jaune">#CCFF00</color>
+    <color name="jaune">#FFE100</color>
+    <color name="jauneClique">#aaffe100</color>
+
     <color name="rouge">#FF0000</color>
+    <color name="rougeClique">#aaff0000</color>
+
     <color name="vert">#33CC00</color>
+    <color name="vertClique">#aa33cc00</color>
+
     <color name="bleu">#0000CC</color>
+    <color name="bleuClique">#aa0000cc</color>
+
     <color name="violet">#9832A6</color>
+    <color name="violetClique">#aa9832a6</color>
+
     <color name="orange">#FFAE00</color>
+    <color name="orangeClique">#aaffae00</color>
+
     <color name="orangePale">#E0F27C</color>
+    <color name="orangePaleClique">#aae0f27c</color>
+
     <color name="turquoise">#00FBFF</color>
+    <color name="turquoiseClique">#aa00fbff</color>
+
     <color name="vertFonce">#257D1B</color>
+    <color name="vertFonceClique">#aa257d1b</color>
+
     <color name="rose">#FF8FFB</color>
+    <color name="roseClique">#aaff8ffb</color>
+
     <color name="blanc">#FFFFFF</color>
     <color name="noir">#000</color>
 
