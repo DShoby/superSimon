@@ -10,22 +10,30 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.os.Handler;
 
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Timer;
 import java.util.TimerTask;
+import java.util.concurrent.ThreadLocalRandom;
 
 public class FacileActivity extends AppCompatActivity {
 
+    //nb boutons
+    final static int MIN = 1;
+    final static int MAX = 4;
+
     //boutons de couleur
-    private Button btnVert;
-    private Button btnRouge;
-    private Button btnJaune;
-    private Button btnBleu;
+    public Button btnVert;
+    public Button btnRouge;
+    public Button btnJaune;
+    public Button btnBleu;
+
 
     private boolean en_jeu = true;
     private boolean bienRepondu = false;
+    private int nbClic = 0;
     private int nbTours = 0;
     private ArrayList<Button> tabBtns;
 
@@ -37,52 +45,97 @@ public class FacileActivity extends AppCompatActivity {
         final Button btnRetour = (Button) findViewById(R.id.idButtonRetour);
         btnRetour.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                retour(v);
+                //retour(v);
+                clignoterBtns();
             }
         });
 
-        final Button btnRejouer = (Button) findViewById(R.id.idButtonRejouer);
-        btnRejouer.setOnClickListener(new View.OnClickListener() {
+        final Button btnJouer = (Button) findViewById(R.id.idButtonJouer);
+        btnJouer.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                rejouer(v);
+                jouerFacile();
             }
         });
 
         //boutons de couleurs
-        btnVert.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                //btnVert.setBackgroundColor(vertClique);
-            }
-        });
-
-        btnRouge.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                retour(v);
-            }
-        });
-
-        btnJaune.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                retour(v);
-            }
-        });
-
-        btnBleu.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                retour(v);
-            }
-        });
-
-
         btnVert = (Button) findViewById(R.id.idButtonNiv1_1);
         btnRouge = (Button) findViewById(R.id.idButtonNiv1_2);
         btnJaune = (Button) findViewById(R.id.idButtonNiv1_3);
         btnBleu = (Button) findViewById(R.id.idButtonNiv1_4);
 
+        btnVert.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                btnVert.setBackgroundColor(getResources().getColor(R.color.vertClique));
+                final Handler handler = new Handler();
+                handler.postDelayed(new Runnable() {
+                    @Override
+                    public void run() {
+                        btnVert.setBackgroundColor(getResources().getColor(R.color.vert));
+                    }
+                }, 100);
 
-        //jouer
+                //verif
+                verif(btnVert);
+            }
+        });
+
+        btnRouge.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                btnRouge.setBackgroundColor(getResources().getColor(R.color.rougeClique));
+                final Handler handler = new Handler();
+                handler.postDelayed(new Runnable() {
+                    @Override
+                    public void run() {
+                        btnRouge.setBackgroundColor(getResources().getColor(R.color.rouge));
+                    }
+                }, 100);
+
+                //verif
+                verif(btnRouge);
+            }
+        });
+
+        btnJaune.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                btnJaune.setBackgroundColor(getResources().getColor(R.color.jauneClique));
+                final Handler handler = new Handler();
+                handler.postDelayed(new Runnable() {
+                    @Override
+                    public void run() {
+                        btnJaune.setBackgroundColor(getResources().getColor(R.color.jaune));
+                    }
+                }, 100);
+
+                //verif
+                verif(btnJaune);
+            }
+        });
+
+        btnBleu.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                btnBleu.setBackgroundColor(getResources().getColor(R.color.bleuClique));
+                final Handler handler = new Handler();
+                handler.postDelayed(new Runnable() {
+                    @Override
+                    public void run() {
+                        btnBleu.setBackgroundColor(getResources().getColor(R.color.bleu));
+                    }
+                }, 100);
+
+                //verif
+                verif(btnBleu);
+            }
+        });
+
+
+
+
         tabBtns = new ArrayList<Button>();
-        jouerFacile();
+
 
         System.out.println("FacileActivity.onCreate");
     }
@@ -90,7 +143,7 @@ public class FacileActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
-            System.out.println("FacileActivity.onStart");
+        System.out.println("FacileActivity.onStart");
     }
 
     @Override
@@ -134,35 +187,114 @@ public class FacileActivity extends AppCompatActivity {
     //jouer
     public void jouerFacile(){
         boutonSupplementaire();
+
     }
 
+    //clignotement d'un bouton
+    public void clignoter(Button btn){
+        if(btn == btnVert){
+            btnVert.setBackgroundColor(getResources().getColor(R.color.vertClique));
+            final Handler handler = new Handler();
+            handler.postDelayed(new Runnable() {
+                @Override
+                public void run() {
+                    btnVert.setBackgroundColor(getResources().getColor(R.color.vert));
+                }
+            }, 100);
+        }
+        else if(btn == btnRouge){
+            btnRouge.setBackgroundColor(getResources().getColor(R.color.rougeClique));
+            final Handler handler = new Handler();
+            handler.postDelayed(new Runnable() {
+                @Override
+                public void run() {
+                    btnRouge.setBackgroundColor(getResources().getColor(R.color.rouge));
+                }
+            }, 100);
+        }
+        else if(btn == btnJaune){
+            btnJaune.setBackgroundColor(getResources().getColor(R.color.jauneClique));
+            final Handler handler = new Handler();
+            handler.postDelayed(new Runnable() {
+                @Override
+                public void run() {
+                    btnJaune.setBackgroundColor(getResources().getColor(R.color.jaune));
+                }
+            }, 100);
+        }
+        else if(btn == btnBleu){
+            btnBleu.setBackgroundColor(getResources().getColor(R.color.bleuClique));
+            final Handler handler = new Handler();
+            handler.postDelayed(new Runnable() {
+                @Override
+                public void run() {
+                    btnBleu.setBackgroundColor(getResources().getColor(R.color.bleu));
+                }
+            }, 100);
+        }
+    }
+
+    //ajouter un bouton dans l'arraylist
     public void boutonSupplementaire(){
         //random
         Random rand = new Random();
-        int num = rand.nextInt(3);
+        int num = rand.nextInt(4);
 
         if(num==0){
             //bouton Vert
             btnVert.setText(String.valueOf(nbTours+1));
+            clignoter(btnVert);
             tabBtns.add(btnVert);
         }
         else if(num==1){
             //bouton Rouge
             btnRouge.setText(String.valueOf(nbTours+1));
+            clignoter(btnRouge);
             tabBtns.add(btnRouge);
         }
         else if(num==2){
             //bouton Jaune
             btnJaune.setText(String.valueOf(nbTours+1));
+            clignoter(btnJaune);
             tabBtns.add(btnJaune);
         }
         else if(num==3){
             //bouton Bleu
             btnBleu.setText(String.valueOf(nbTours+1));
+            clignoter(btnBleu);
             tabBtns.add(btnBleu);
         }
 
         nbTours++;
+    }
+
+    //fais clignoter les boutons de l'arraylist
+    public void clignoterBtns(){
+        for(int i=0;i<tabBtns.size();i++){
+            //Thread.sleep(5000);
+            clignoter(tabBtns.get(i));
+        }
+        boutonSupplementaire();
+    }
+
+    //verif du boutons cliqués
+    public void verif(Button btn){
+        if(nbClic == tabBtns.size()){
+            if(btn == tabBtns.get(nbClic)) {
+                bienRepondu = true;
+            }
+            else{
+                fin();
+            }
+            //fonction clignoterBtns + new btn
+        }
+        else if(btn == tabBtns.get(nbClic)){
+            bienRepondu = true;
+            nbClic ++;
+        }
+        else{
+            fin();
+        }
     }
 
     //fin

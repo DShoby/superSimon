@@ -1,5 +1,6 @@
 package com.example.thomas.supersimon;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -31,7 +32,8 @@ public class GameOverActivity extends AppCompatActivity {
     }
 
     public void retour(View v) {
-        finish();
+        Intent intentMS = new Intent(this, MainActivity.class);
+        startActivity(intentMS);
     }
 
     public void rejouer(View v) {

@@ -24,6 +24,7 @@
     <color name="background_material_light">@color/material_grey_50</color>
     <color name="blanc">#FFFFFF</color>
     <color name="bleu">#0000CC</color>
+    <color name="bleuClique">#aa0000cc</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
@@ -54,7 +55,8 @@
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
-    <color name="jaune">#CCFF00</color>
+    <color name="jaune">#FFE100</color>
+    <color name="jauneClique">#aaffe100</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">#ff21272b</color>
@@ -69,7 +71,9 @@
     <color name="material_grey_900">#ff212121</color>
     <color name="noir">#000</color>
     <color name="orange">#FFAE00</color>
+    <color name="orangeClique">#aaffae00</color>
     <color name="orangePale">#E0F27C</color>
+    <color name="orangePaleClique">#aae0f27c</color>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
     <color name="primary_material_dark">@color/material_grey_900</color>
@@ -81,7 +85,9 @@
     <color name="ripple_material_dark">#33ffffff</color>
     <color name="ripple_material_light">#1f000000</color>
     <color name="rose">#FF8FFB</color>
+    <color name="roseClique">#aaff8ffb</color>
     <color name="rouge">#FF0000</color>
+    <color name="rougeClique">#aaff0000</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
@@ -91,9 +97,13 @@
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="turquoise">#00FBFF</color>
+    <color name="turquoiseClique">#aa00fbff</color>
     <color name="vert">#33CC00</color>
+    <color name="vertClique">#aa33cc00</color>
     <color name="vertFonce">#257D1B</color>
+    <color name="vertFonceClique">#aa257d1b</color>
     <color name="violet">#9832A6</color>
+    <color name="violetClique">#aa9832a6</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="none" value="0"/><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr name="homeAsUpIndicator"/><attr format="dimension" name="itemPadding"/><attr format="boolean" name="hideOnContentScroll"/><attr format="dimension" name="contentInsetStart"/><attr format="dimension" name="contentInsetEnd"/><attr format="dimension" name="contentInsetLeft"/><attr format="dimension" name="contentInsetRight"/><attr format="dimension" name="elevation"/><attr format="reference" name="popupTheme"/></declare-styleable>
     <declare-styleable name="ActionBarLayout"><attr name="android:layout_gravity"/></declare-styleable>
     <declare-styleable name="ActionMenuItemView"><attr name="android:minWidth"/></declare-styleable>
@@ -304,7 +314,7 @@
     <string name="btnNiv3_1"/>
     <string name="btnNiv3_2"/>
     <string name="btnNiv3_3"/>
-    <string name="btnRejouer">Rejouer</string>
+    <string name="btnRejouer">Jouer</string>
     <string name="btnRetour">Retour</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="gameover">GAME OVER</string>
