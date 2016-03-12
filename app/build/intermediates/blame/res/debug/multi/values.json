@@ -3263,14 +3263,7 @@
                     "endOffset": 39732
                 },
                 "from": {
-                    "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 481,
-                        "endColumn": 44,
-                        "endOffset": 521
-                    }
+                    "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -3278,20 +3271,27 @@
                     "startLine": 317,
                     "startColumn": 4,
                     "startOffset": 39737,
-                    "endColumn": 44,
-                    "endOffset": 39777
+                    "endColumn": 47,
+                    "endOffset": 39780
                 },
                 "from": {
-                    "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 47,
+                        "endOffset": 478
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 318,
                     "startColumn": 4,
-                    "startOffset": 39782,
+                    "startOffset": 39785,
                     "endColumn": 86,
-                    "endOffset": 39864
+                    "endOffset": 39867
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"
@@ -3301,9 +3301,9 @@
                 "to": {
                     "startLine": 319,
                     "startColumn": 4,
-                    "startOffset": 39869,
+                    "startOffset": 39872,
                     "endColumn": 46,
-                    "endOffset": 39911
+                    "endOffset": 39914
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
@@ -3313,9 +3313,9 @@
                 "to": {
                     "startLine": 320,
                     "startColumn": 4,
-                    "startOffset": 39916,
+                    "startOffset": 39919,
                     "endColumn": 58,
-                    "endOffset": 39970
+                    "endOffset": 39973
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
@@ -3325,9 +3325,9 @@
                 "to": {
                     "startLine": 321,
                     "startColumn": 4,
-                    "startOffset": 39975,
+                    "startOffset": 39978,
                     "endColumn": 52,
-                    "endOffset": 40023
+                    "endOffset": 40026
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
@@ -3337,9 +3337,9 @@
                 "to": {
                     "startLine": 322,
                     "startColumn": 4,
-                    "startOffset": 40028,
+                    "startOffset": 40031,
                     "endColumn": 50,
-                    "endOffset": 40074
+                    "endOffset": 40077
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
@@ -3349,9 +3349,9 @@
                 "to": {
                     "startLine": 323,
                     "startColumn": 4,
-                    "startOffset": 40079,
+                    "startOffset": 40082,
                     "endColumn": 63,
-                    "endOffset": 40138
+                    "endOffset": 40141
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
@@ -3361,9 +3361,9 @@
                 "to": {
                     "startLine": 324,
                     "startColumn": 4,
-                    "startOffset": 40143,
+                    "startOffset": 40146,
                     "endColumn": 29,
-                    "endOffset": 40168
+                    "endOffset": 40171
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
@@ -3373,9 +3373,9 @@
                 "to": {
                     "startLine": 325,
                     "startColumn": 4,
-                    "startOffset": 40173,
+                    "startOffset": 40176,
                     "endColumn": 38,
-                    "endOffset": 40207
+                    "endOffset": 40210
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
@@ -3385,9 +3385,9 @@
                 "to": {
                     "startLine": 326,
                     "startColumn": 4,
-                    "startOffset": 40212,
+                    "startOffset": 40215,
                     "endColumn": 35,
-                    "endOffset": 40243
+                    "endOffset": 40246
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
@@ -3397,9 +3397,9 @@
                 "to": {
                     "startLine": 327,
                     "startColumn": 4,
-                    "startOffset": 40248,
+                    "startOffset": 40251,
                     "endColumn": 34,
-                    "endOffset": 40278
+                    "endOffset": 40281
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
@@ -3409,9 +3409,9 @@
                 "to": {
                     "startLine": 328,
                     "startColumn": 4,
-                    "startOffset": 40283,
+                    "startOffset": 40286,
                     "endColumn": 39,
-                    "endOffset": 40318
+                    "endOffset": 40321
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
@@ -3421,9 +3421,9 @@
                 "to": {
                     "startLine": 329,
                     "startColumn": 4,
-                    "startOffset": 40323,
+                    "startOffset": 40326,
                     "endColumn": 70,
-                    "endOffset": 40389
+                    "endOffset": 40392
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3433,9 +3433,9 @@
                 "to": {
                     "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 40394,
+                    "startOffset": 40397,
                     "endColumn": 70,
-                    "endOffset": 40460
+                    "endOffset": 40463
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
@@ -3445,9 +3445,9 @@
                 "to": {
                     "startLine": 331,
                     "startColumn": 4,
-                    "startOffset": 40465,
+                    "startOffset": 40468,
                     "endColumn": 64,
-                    "endOffset": 40525
+                    "endOffset": 40528
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
@@ -3457,9 +3457,9 @@
                 "to": {
                     "startLine": 332,
                     "startColumn": 4,
-                    "startOffset": 40530,
+                    "startOffset": 40533,
                     "endColumn": 69,
-                    "endOffset": 40595
+                    "endOffset": 40598
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
@@ -3469,9 +3469,9 @@
                 "to": {
                     "startLine": 333,
                     "startColumn": 4,
-                    "startOffset": 40600,
+                    "startOffset": 40603,
                     "endColumn": 79,
-                    "endOffset": 40675
+                    "endOffset": 40678
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
@@ -3481,9 +3481,9 @@
                 "to": {
                     "startLine": 334,
                     "startColumn": 4,
-                    "startOffset": 40680,
+                    "startOffset": 40683,
                     "endColumn": 62,
-                    "endOffset": 40738
+                    "endOffset": 40741
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
@@ -3493,9 +3493,9 @@
                 "to": {
                     "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 40743,
+                    "startOffset": 40746,
                     "endColumn": 45,
-                    "endOffset": 40784
+                    "endOffset": 40787
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\strings.xml"
@@ -3505,9 +3505,9 @@
                 "to": {
                     "startLine": 336,
                     "startColumn": 4,
-                    "startOffset": 40789,
+                    "startOffset": 40792,
                     "endColumn": 77,
-                    "endOffset": 40862
+                    "endOffset": 40865
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3517,9 +3517,9 @@
                 "to": {
                     "startLine": 337,
                     "startColumn": 4,
-                    "startOffset": 40867,
+                    "startOffset": 40870,
                     "endColumn": 89,
-                    "endOffset": 40952
+                    "endOffset": 40955
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3529,9 +3529,9 @@
                 "to": {
                     "startLine": 338,
                     "startColumn": 4,
-                    "startOffset": 40957,
+                    "startOffset": 40960,
                     "endColumn": 87,
-                    "endOffset": 41040
+                    "endOffset": 41043
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3541,9 +3541,9 @@
                 "to": {
                     "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 41045,
+                    "startOffset": 41048,
                     "endColumn": 95,
-                    "endOffset": 41136
+                    "endOffset": 41139
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3553,10 +3553,10 @@
                 "to": {
                     "startLine": 340,
                     "startColumn": 4,
-                    "startOffset": 41141,
+                    "startOffset": 41144,
                     "endLine": 345,
                     "endColumn": 12,
-                    "endOffset": 41455
+                    "endOffset": 41458
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\styles.xml"
@@ -3566,9 +3566,9 @@
                 "to": {
                     "startLine": 346,
                     "startColumn": 4,
-                    "startOffset": 41460,
+                    "startOffset": 41463,
                     "endColumn": 89,
-                    "endOffset": 41545
+                    "endOffset": 41548
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\styles.xml"
@@ -3578,10 +3578,10 @@
                 "to": {
                     "startLine": 347,
                     "startColumn": 4,
-                    "startOffset": 41550,
+                    "startOffset": 41553,
                     "endLine": 350,
                     "endColumn": 12,
-                    "endOffset": 41695
+                    "endOffset": 41698
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\styles.xml"
@@ -3591,9 +3591,9 @@
                 "to": {
                     "startLine": 351,
                     "startColumn": 4,
-                    "startOffset": 41700,
+                    "startOffset": 41703,
                     "endColumn": 79,
-                    "endOffset": 41775
+                    "endOffset": 41778
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\src\\main\\res\\values\\styles.xml"
@@ -3603,10 +3603,10 @@
                 "to": {
                     "startLine": 352,
                     "startColumn": 4,
-                    "startOffset": 41780,
+                    "startOffset": 41783,
                     "endLine": 358,
                     "endColumn": 12,
-                    "endOffset": 42276
+                    "endOffset": 42279
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3616,9 +3616,9 @@
                 "to": {
                     "startLine": 359,
                     "startColumn": 4,
-                    "startOffset": 42281,
+                    "startOffset": 42284,
                     "endColumn": 88,
-                    "endOffset": 42365
+                    "endOffset": 42368
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3628,10 +3628,10 @@
                 "to": {
                     "startLine": 360,
                     "startColumn": 4,
-                    "startOffset": 42370,
+                    "startOffset": 42373,
                     "endLine": 363,
                     "endColumn": 12,
-                    "endOffset": 42612
+                    "endOffset": 42615
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3641,10 +3641,10 @@
                 "to": {
                     "startLine": 364,
                     "startColumn": 4,
-                    "startOffset": 42617,
+                    "startOffset": 42620,
                     "endLine": 367,
                     "endColumn": 12,
-                    "endOffset": 42893
+                    "endOffset": 42896
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3654,10 +3654,10 @@
                 "to": {
                     "startLine": 368,
                     "startColumn": 4,
-                    "startOffset": 42898,
+                    "startOffset": 42901,
                     "endLine": 372,
                     "endColumn": 12,
-                    "endOffset": 43178
+                    "endOffset": 43181
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3667,10 +3667,10 @@
                 "to": {
                     "startLine": 373,
                     "startColumn": 4,
-                    "startOffset": 43183,
+                    "startOffset": 43186,
                     "endLine": 378,
                     "endColumn": 12,
-                    "endOffset": 43571
+                    "endOffset": 43574
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3680,10 +3680,10 @@
                 "to": {
                     "startLine": 379,
                     "startColumn": 4,
-                    "startOffset": 43576,
+                    "startOffset": 43579,
                     "endLine": 385,
                     "endColumn": 12,
-                    "endOffset": 44048
+                    "endOffset": 44051
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3693,10 +3693,10 @@
                 "to": {
                     "startLine": 386,
                     "startColumn": 4,
-                    "startOffset": 44053,
+                    "startOffset": 44056,
                     "endLine": 389,
                     "endColumn": 12,
-                    "endOffset": 44270
+                    "endOffset": 44273
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3706,10 +3706,10 @@
                 "to": {
                     "startLine": 390,
                     "startColumn": 4,
-                    "startOffset": 44275,
+                    "startOffset": 44278,
                     "endLine": 393,
                     "endColumn": 12,
-                    "endOffset": 44492
+                    "endOffset": 44495
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3719,10 +3719,10 @@
                 "to": {
                     "startLine": 394,
                     "startColumn": 4,
-                    "startOffset": 44497,
+                    "startOffset": 44500,
                     "endLine": 398,
                     "endColumn": 12,
-                    "endOffset": 44760
+                    "endOffset": 44763
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3732,10 +3732,10 @@
                 "to": {
                     "startLine": 399,
                     "startColumn": 4,
-                    "startOffset": 44765,
+                    "startOffset": 44768,
                     "endLine": 402,
                     "endColumn": 12,
-                    "endOffset": 44987
+                    "endOffset": 44990
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3745,10 +3745,10 @@
                 "to": {
                     "startLine": 403,
                     "startColumn": 4,
-                    "startOffset": 44992,
+                    "startOffset": 44995,
                     "endLine": 406,
                     "endColumn": 12,
-                    "endOffset": 45217
+                    "endOffset": 45220
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3758,10 +3758,10 @@
                 "to": {
                     "startLine": 407,
                     "startColumn": 4,
-                    "startOffset": 45222,
+                    "startOffset": 45225,
                     "endLine": 410,
                     "endColumn": 12,
-                    "endOffset": 45447
+                    "endOffset": 45450
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3771,10 +3771,10 @@
                 "to": {
                     "startLine": 411,
                     "startColumn": 4,
-                    "startOffset": 45452,
+                    "startOffset": 45455,
                     "endLine": 414,
                     "endColumn": 12,
-                    "endOffset": 45677
+                    "endOffset": 45680
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3784,10 +3784,10 @@
                 "to": {
                     "startLine": 415,
                     "startColumn": 4,
-                    "startOffset": 45682,
+                    "startOffset": 45685,
                     "endLine": 418,
                     "endColumn": 12,
-                    "endOffset": 45907
+                    "endOffset": 45910
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3797,10 +3797,10 @@
                 "to": {
                     "startLine": 419,
                     "startColumn": 4,
-                    "startOffset": 45912,
+                    "startOffset": 45915,
                     "endLine": 422,
                     "endColumn": 12,
-                    "endOffset": 46134
+                    "endOffset": 46137
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3810,10 +3810,10 @@
                 "to": {
                     "startLine": 423,
                     "startColumn": 4,
-                    "startOffset": 46139,
+                    "startOffset": 46142,
                     "endLine": 426,
                     "endColumn": 12,
-                    "endOffset": 46373
+                    "endOffset": 46376
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3823,10 +3823,10 @@
                 "to": {
                     "startLine": 427,
                     "startColumn": 4,
-                    "startOffset": 46378,
+                    "startOffset": 46381,
                     "endLine": 430,
                     "endColumn": 12,
-                    "endOffset": 46599
+                    "endOffset": 46602
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3836,10 +3836,10 @@
                 "to": {
                     "startLine": 431,
                     "startColumn": 4,
-                    "startOffset": 46604,
+                    "startOffset": 46607,
                     "endLine": 434,
                     "endColumn": 12,
-                    "endOffset": 46844
+                    "endOffset": 46847
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3849,10 +3849,10 @@
                 "to": {
                     "startLine": 435,
                     "startColumn": 4,
-                    "startOffset": 46849,
+                    "startOffset": 46852,
                     "endLine": 436,
                     "endColumn": 12,
-                    "endOffset": 46974
+                    "endOffset": 46977
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3862,10 +3862,10 @@
                 "to": {
                     "startLine": 437,
                     "startColumn": 4,
-                    "startOffset": 46979,
+                    "startOffset": 46982,
                     "endLine": 438,
                     "endColumn": 12,
-                    "endOffset": 47104
+                    "endOffset": 47107
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3875,10 +3875,10 @@
                 "to": {
                     "startLine": 439,
                     "startColumn": 4,
-                    "startOffset": 47109,
+                    "startOffset": 47112,
                     "endLine": 442,
                     "endColumn": 12,
-                    "endOffset": 47334
+                    "endOffset": 47337
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3888,10 +3888,10 @@
                 "to": {
                     "startLine": 443,
                     "startColumn": 4,
-                    "startOffset": 47339,
+                    "startOffset": 47342,
                     "endLine": 446,
                     "endColumn": 12,
-                    "endOffset": 47582
+                    "endOffset": 47585
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3901,10 +3901,10 @@
                 "to": {
                     "startLine": 447,
                     "startColumn": 4,
-                    "startOffset": 47587,
+                    "startOffset": 47590,
                     "endLine": 450,
                     "endColumn": 12,
-                    "endOffset": 47801
+                    "endOffset": 47804
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3914,10 +3914,10 @@
                 "to": {
                     "startLine": 451,
                     "startColumn": 4,
-                    "startOffset": 47806,
+                    "startOffset": 47809,
                     "endLine": 455,
                     "endColumn": 12,
-                    "endOffset": 48084
+                    "endOffset": 48087
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3927,10 +3927,10 @@
                 "to": {
                     "startLine": 456,
                     "startColumn": 4,
-                    "startOffset": 48089,
+                    "startOffset": 48092,
                     "endLine": 459,
                     "endColumn": 12,
-                    "endOffset": 48292
+                    "endOffset": 48295
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3940,10 +3940,10 @@
                 "to": {
                     "startLine": 460,
                     "startColumn": 4,
-                    "startOffset": 48297,
+                    "startOffset": 48300,
                     "endLine": 462,
                     "endColumn": 12,
-                    "endOffset": 48423
+                    "endOffset": 48426
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3953,10 +3953,10 @@
                 "to": {
                     "startLine": 463,
                     "startColumn": 4,
-                    "startOffset": 48428,
+                    "startOffset": 48431,
                     "endLine": 466,
                     "endColumn": 12,
-                    "endOffset": 48650
+                    "endOffset": 48653
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3966,10 +3966,10 @@
                 "to": {
                     "startLine": 467,
                     "startColumn": 4,
-                    "startOffset": 48655,
+                    "startOffset": 48658,
                     "endLine": 470,
                     "endColumn": 12,
-                    "endOffset": 48896
+                    "endOffset": 48899
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3979,10 +3979,10 @@
                 "to": {
                     "startLine": 471,
                     "startColumn": 4,
-                    "startOffset": 48901,
+                    "startOffset": 48904,
                     "endLine": 474,
                     "endColumn": 12,
-                    "endOffset": 49121
+                    "endOffset": 49124
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3992,10 +3992,10 @@
                 "to": {
                     "startLine": 475,
                     "startColumn": 4,
-                    "startOffset": 49126,
+                    "startOffset": 49129,
                     "endLine": 478,
                     "endColumn": 12,
-                    "endOffset": 49368
+                    "endOffset": 49371
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4005,10 +4005,10 @@
                 "to": {
                     "startLine": 479,
                     "startColumn": 4,
-                    "startOffset": 49373,
+                    "startOffset": 49376,
                     "endLine": 482,
                     "endColumn": 12,
-                    "endOffset": 49589
+                    "endOffset": 49592
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4018,10 +4018,10 @@
                 "to": {
                     "startLine": 483,
                     "startColumn": 4,
-                    "startOffset": 49594,
+                    "startOffset": 49597,
                     "endLine": 486,
                     "endColumn": 12,
-                    "endOffset": 49834
+                    "endOffset": 49837
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4031,10 +4031,10 @@
                 "to": {
                     "startLine": 487,
                     "startColumn": 4,
-                    "startOffset": 49839,
+                    "startOffset": 49842,
                     "endLine": 490,
                     "endColumn": 12,
-                    "endOffset": 50108
+                    "endOffset": 50111
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4044,10 +4044,10 @@
                 "to": {
                     "startLine": 491,
                     "startColumn": 4,
-                    "startOffset": 50113,
+                    "startOffset": 50116,
                     "endLine": 494,
                     "endColumn": 12,
-                    "endOffset": 50409
+                    "endOffset": 50412
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4057,10 +4057,10 @@
                 "to": {
                     "startLine": 495,
                     "startColumn": 4,
-                    "startOffset": 50414,
+                    "startOffset": 50417,
                     "endLine": 498,
                     "endColumn": 12,
-                    "endOffset": 50733
+                    "endOffset": 50736
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4070,10 +4070,10 @@
                 "to": {
                     "startLine": 499,
                     "startColumn": 4,
-                    "startOffset": 50738,
+                    "startOffset": 50741,
                     "endLine": 502,
                     "endColumn": 12,
-                    "endOffset": 51024
+                    "endOffset": 51027
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4083,10 +4083,10 @@
                 "to": {
                     "startLine": 503,
                     "startColumn": 4,
-                    "startOffset": 51029,
+                    "startOffset": 51032,
                     "endLine": 506,
                     "endColumn": 12,
-                    "endOffset": 51338
+                    "endOffset": 51341
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4096,9 +4096,9 @@
                 "to": {
                     "startLine": 507,
                     "startColumn": 4,
-                    "startOffset": 51343,
+                    "startOffset": 51346,
                     "endColumn": 136,
-                    "endOffset": 51475
+                    "endOffset": 51478
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4108,9 +4108,9 @@
                 "to": {
                     "startLine": 508,
                     "startColumn": 4,
-                    "startOffset": 51480,
+                    "startOffset": 51483,
                     "endColumn": 130,
-                    "endOffset": 51606
+                    "endOffset": 51609
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4120,9 +4120,9 @@
                 "to": {
                     "startLine": 509,
                     "startColumn": 4,
-                    "startOffset": 51611,
+                    "startOffset": 51614,
                     "endColumn": 104,
-                    "endOffset": 51711
+                    "endOffset": 51714
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4132,10 +4132,10 @@
                 "to": {
                     "startLine": 510,
                     "startColumn": 4,
-                    "startOffset": 51716,
+                    "startOffset": 51719,
                     "endLine": 512,
                     "endColumn": 12,
-                    "endOffset": 51915
+                    "endOffset": 51918
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4145,10 +4145,10 @@
                 "to": {
                     "startLine": 513,
                     "startColumn": 4,
-                    "startOffset": 51920,
+                    "startOffset": 51923,
                     "endLine": 515,
                     "endColumn": 12,
-                    "endOffset": 52123
+                    "endOffset": 52126
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4158,10 +4158,10 @@
                 "to": {
                     "startLine": 516,
                     "startColumn": 4,
-                    "startOffset": 52128,
+                    "startOffset": 52131,
                     "endLine": 517,
                     "endColumn": 12,
-                    "endOffset": 52247
+                    "endOffset": 52250
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4171,10 +4171,10 @@
                 "to": {
                     "startLine": 518,
                     "startColumn": 4,
-                    "startOffset": 52252,
+                    "startOffset": 52255,
                     "endLine": 519,
                     "endColumn": 12,
-                    "endOffset": 52371
+                    "endOffset": 52374
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4184,9 +4184,9 @@
                 "to": {
                     "startLine": 520,
                     "startColumn": 4,
-                    "startOffset": 52376,
+                    "startOffset": 52379,
                     "endColumn": 104,
-                    "endOffset": 52476
+                    "endOffset": 52479
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4196,9 +4196,9 @@
                 "to": {
                     "startLine": 521,
                     "startColumn": 4,
-                    "startOffset": 52481,
+                    "startOffset": 52484,
                     "endColumn": 116,
-                    "endOffset": 52593
+                    "endOffset": 52596
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4208,10 +4208,10 @@
                 "to": {
                     "startLine": 522,
                     "startColumn": 4,
-                    "startOffset": 52598,
+                    "startOffset": 52601,
                     "endLine": 524,
                     "endColumn": 12,
-                    "endOffset": 52807
+                    "endOffset": 52810
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4221,10 +4221,10 @@
                 "to": {
                     "startLine": 525,
                     "startColumn": 4,
-                    "startOffset": 52812,
+                    "startOffset": 52815,
                     "endLine": 526,
                     "endColumn": 12,
-                    "endOffset": 52953
+                    "endOffset": 52956
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4234,10 +4234,10 @@
                 "to": {
                     "startLine": 527,
                     "startColumn": 4,
-                    "startOffset": 52958,
+                    "startOffset": 52961,
                     "endLine": 528,
                     "endColumn": 12,
-                    "endOffset": 53093
+                    "endOffset": 53096
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4247,10 +4247,10 @@
                 "to": {
                     "startLine": 529,
                     "startColumn": 4,
-                    "startOffset": 53098,
+                    "startOffset": 53101,
                     "endLine": 530,
                     "endColumn": 12,
-                    "endOffset": 53179
+                    "endOffset": 53182
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4260,10 +4260,10 @@
                 "to": {
                     "startLine": 531,
                     "startColumn": 4,
-                    "startOffset": 53184,
+                    "startOffset": 53187,
                     "endLine": 535,
                     "endColumn": 12,
-                    "endOffset": 53527
+                    "endOffset": 53530
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4273,9 +4273,9 @@
                 "to": {
                     "startLine": 536,
                     "startColumn": 4,
-                    "startOffset": 53532,
+                    "startOffset": 53535,
                     "endColumn": 87,
-                    "endOffset": 53615
+                    "endOffset": 53618
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4285,10 +4285,10 @@
                 "to": {
                     "startLine": 537,
                     "startColumn": 4,
-                    "startOffset": 53620,
+                    "startOffset": 53623,
                     "endLine": 540,
                     "endColumn": 12,
-                    "endOffset": 53845
+                    "endOffset": 53848
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4298,10 +4298,10 @@
                 "to": {
                     "startLine": 541,
                     "startColumn": 4,
-                    "startOffset": 53850,
+                    "startOffset": 53853,
                     "endLine": 546,
                     "endColumn": 12,
-                    "endOffset": 54263
+                    "endOffset": 54266
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4311,10 +4311,10 @@
                 "to": {
                     "startLine": 547,
                     "startColumn": 4,
-                    "startOffset": 54268,
+                    "startOffset": 54271,
                     "endLine": 550,
                     "endColumn": 12,
-                    "endOffset": 54496
+                    "endOffset": 54499
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4324,9 +4324,9 @@
                 "to": {
                     "startLine": 551,
                     "startColumn": 4,
-                    "startOffset": 54501,
+                    "startOffset": 54504,
                     "endColumn": 81,
-                    "endOffset": 54578
+                    "endOffset": 54581
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4336,10 +4336,10 @@
                 "to": {
                     "startLine": 552,
                     "startColumn": 4,
-                    "startOffset": 54583,
+                    "startOffset": 54586,
                     "endLine": 553,
                     "endColumn": 12,
-                    "endOffset": 54676
+                    "endOffset": 54679
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4349,10 +4349,10 @@
                 "to": {
                     "startLine": 554,
                     "startColumn": 4,
-                    "startOffset": 54681,
+                    "startOffset": 54684,
                     "endLine": 564,
                     "endColumn": 12,
-                    "endOffset": 55293
+                    "endOffset": 55296
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4362,9 +4362,9 @@
                 "to": {
                     "startLine": 565,
                     "startColumn": 4,
-                    "startOffset": 55298,
+                    "startOffset": 55301,
                     "endColumn": 99,
-                    "endOffset": 55393
+                    "endOffset": 55396
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4374,10 +4374,10 @@
                 "to": {
                     "startLine": 566,
                     "startColumn": 4,
-                    "startOffset": 55398,
+                    "startOffset": 55401,
                     "endLine": 569,
                     "endColumn": 12,
-                    "endOffset": 55629
+                    "endOffset": 55632
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4387,10 +4387,10 @@
                 "to": {
                     "startLine": 570,
                     "startColumn": 4,
-                    "startOffset": 55634,
+                    "startOffset": 55637,
                     "endLine": 575,
                     "endColumn": 12,
-                    "endOffset": 56053
+                    "endOffset": 56056
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4400,10 +4400,10 @@
                 "to": {
                     "startLine": 576,
                     "startColumn": 4,
-                    "startOffset": 56058,
+                    "startOffset": 56061,
                     "endLine": 579,
                     "endColumn": 12,
-                    "endOffset": 56292
+                    "endOffset": 56295
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4413,9 +4413,9 @@
                 "to": {
                     "startLine": 580,
                     "startColumn": 4,
-                    "startOffset": 56297,
+                    "startOffset": 56300,
                     "endColumn": 93,
-                    "endOffset": 56386
+                    "endOffset": 56389
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4425,9 +4425,9 @@
                 "to": {
                     "startLine": 581,
                     "startColumn": 4,
-                    "startOffset": 56391,
+                    "startOffset": 56394,
                     "endColumn": 88,
-                    "endOffset": 56475
+                    "endOffset": 56478
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4437,10 +4437,10 @@
                 "to": {
                     "startLine": 582,
                     "startColumn": 4,
-                    "startOffset": 56480,
+                    "startOffset": 56483,
                     "endLine": 585,
                     "endColumn": 12,
-                    "endOffset": 56712
+                    "endOffset": 56715
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4450,10 +4450,10 @@
                 "to": {
                     "startLine": 586,
                     "startColumn": 4,
-                    "startOffset": 56717,
+                    "startOffset": 56720,
                     "endLine": 611,
                     "endColumn": 12,
-                    "endOffset": 58663
+                    "endOffset": 58666
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4463,10 +4463,10 @@
                 "to": {
                     "startLine": 612,
                     "startColumn": 4,
-                    "startOffset": 58668,
+                    "startOffset": 58671,
                     "endLine": 615,
                     "endColumn": 12,
-                    "endOffset": 58905
+                    "endOffset": 58908
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4476,10 +4476,10 @@
                 "to": {
                     "startLine": 616,
                     "startColumn": 4,
-                    "startOffset": 58910,
+                    "startOffset": 58913,
                     "endLine": 642,
                     "endColumn": 12,
-                    "endOffset": 60987
+                    "endOffset": 60990
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4489,10 +4489,10 @@
                 "to": {
                     "startLine": 643,
                     "startColumn": 4,
-                    "startOffset": 60992,
+                    "startOffset": 60995,
                     "endLine": 795,
                     "endColumn": 12,
-                    "endOffset": 70669
+                    "endOffset": 70672
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4502,10 +4502,10 @@
                 "to": {
                     "startLine": 796,
                     "startColumn": 4,
-                    "startOffset": 70674,
+                    "startOffset": 70677,
                     "endLine": 817,
                     "endColumn": 12,
-                    "endOffset": 71936
+                    "endOffset": 71939
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4515,10 +4515,10 @@
                 "to": {
                     "startLine": 818,
                     "startColumn": 4,
-                    "startOffset": 71941,
+                    "startOffset": 71944,
                     "endLine": 970,
                     "endColumn": 12,
-                    "endOffset": 81728
+                    "endOffset": 81731
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4528,10 +4528,10 @@
                 "to": {
                     "startLine": 971,
                     "startColumn": 4,
-                    "startOffset": 81733,
+                    "startOffset": 81736,
                     "endLine": 992,
                     "endColumn": 12,
-                    "endOffset": 83009
+                    "endOffset": 83012
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4541,10 +4541,10 @@
                 "to": {
                     "startLine": 993,
                     "startColumn": 4,
-                    "startOffset": 83014,
+                    "startOffset": 83017,
                     "endLine": 999,
                     "endColumn": 12,
-                    "endOffset": 83545
+                    "endOffset": 83548
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4554,10 +4554,10 @@
                 "to": {
                     "startLine": 1000,
                     "startColumn": 4,
-                    "startOffset": 83550,
+                    "startOffset": 83553,
                     "endLine": 1004,
                     "endColumn": 12,
-                    "endOffset": 83875
+                    "endOffset": 83878
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4567,10 +4567,10 @@
                 "to": {
                     "startLine": 1005,
                     "startColumn": 4,
-                    "startOffset": 83880,
+                    "startOffset": 83883,
                     "endLine": 1025,
                     "endColumn": 12,
-                    "endOffset": 84998
+                    "endOffset": 85001
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4580,10 +4580,10 @@
                 "to": {
                     "startLine": 1026,
                     "startColumn": 4,
-                    "startOffset": 85003,
+                    "startOffset": 85006,
                     "endLine": 1030,
                     "endColumn": 12,
-                    "endOffset": 85254
+                    "endOffset": 85257
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4593,10 +4593,10 @@
                 "to": {
                     "startLine": 1031,
                     "startColumn": 4,
-                    "startOffset": 85259,
+                    "startOffset": 85262,
                     "endLine": 1035,
                     "endColumn": 12,
-                    "endOffset": 85490
+                    "endOffset": 85493
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4606,10 +4606,10 @@
                 "to": {
                     "startLine": 1036,
                     "startColumn": 4,
-                    "startOffset": 85495,
+                    "startOffset": 85498,
                     "endLine": 1045,
                     "endColumn": 12,
-                    "endOffset": 86037
+                    "endOffset": 86040
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4619,10 +4619,10 @@
                 "to": {
                     "startLine": 1046,
                     "startColumn": 4,
-                    "startOffset": 86042,
+                    "startOffset": 86045,
                     "endLine": 1054,
                     "endColumn": 12,
-                    "endOffset": 86531
+                    "endOffset": 86534
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4632,10 +4632,10 @@
                 "to": {
                     "startLine": 1055,
                     "startColumn": 4,
-                    "startOffset": 86536,
+                    "startOffset": 86539,
                     "endLine": 1063,
                     "endColumn": 12,
-                    "endOffset": 87136
+                    "endOffset": 87139
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4645,10 +4645,10 @@
                 "to": {
                     "startLine": 1064,
                     "startColumn": 4,
-                    "startOffset": 87141,
+                    "startOffset": 87144,
                     "endLine": 1066,
                     "endColumn": 12,
-                    "endOffset": 87284
+                    "endOffset": 87287
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4658,10 +4658,10 @@
                 "to": {
                     "startLine": 1067,
                     "startColumn": 4,
-                    "startOffset": 87289,
+                    "startOffset": 87292,
                     "endLine": 1073,
                     "endColumn": 12,
-                    "endOffset": 87872
+                    "endOffset": 87875
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4671,10 +4671,10 @@
                 "to": {
                     "startLine": 1074,
                     "startColumn": 4,
-                    "startOffset": 87877,
+                    "startOffset": 87880,
                     "endLine": 1081,
                     "endColumn": 12,
-                    "endOffset": 88436
+                    "endOffset": 88439
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4684,10 +4684,10 @@
                 "to": {
                     "startLine": 1082,
                     "startColumn": 4,
-                    "startOffset": 88441,
+                    "startOffset": 88444,
                     "endLine": 1088,
                     "endColumn": 12,
-                    "endOffset": 88811
+                    "endOffset": 88814
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4697,9 +4697,9 @@
                 "to": {
                     "startLine": 1089,
                     "startColumn": 4,
-                    "startOffset": 88816,
+                    "startOffset": 88819,
                     "endColumn": 117,
-                    "endOffset": 88929
+                    "endOffset": 88932
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4709,10 +4709,10 @@
                 "to": {
                     "startLine": 1090,
                     "startColumn": 4,
-                    "startOffset": 88934,
+                    "startOffset": 88937,
                     "endLine": 1098,
                     "endColumn": 12,
-                    "endOffset": 89467
+                    "endOffset": 89470
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4722,10 +4722,10 @@
                 "to": {
                     "startLine": 1099,
                     "startColumn": 4,
-                    "startOffset": 89472,
+                    "startOffset": 89475,
                     "endLine": 1101,
                     "endColumn": 12,
-                    "endOffset": 89624
+                    "endOffset": 89627
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4735,10 +4735,10 @@
                 "to": {
                     "startLine": 1102,
                     "startColumn": 4,
-                    "startOffset": 89629,
+                    "startOffset": 89632,
                     "endLine": 1104,
                     "endColumn": 12,
-                    "endOffset": 89768
+                    "endOffset": 89771
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4748,10 +4748,10 @@
                 "to": {
                     "startLine": 1105,
                     "startColumn": 4,
-                    "startOffset": 89773,
+                    "startOffset": 89776,
                     "endLine": 1109,
                     "endColumn": 12,
-                    "endOffset": 90088
+                    "endOffset": 90091
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4761,10 +4761,10 @@
                 "to": {
                     "startLine": 1110,
                     "startColumn": 4,
-                    "startOffset": 90093,
+                    "startOffset": 90096,
                     "endLine": 1113,
                     "endColumn": 12,
-                    "endOffset": 90344
+                    "endOffset": 90347
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4774,10 +4774,10 @@
                 "to": {
                     "startLine": 1114,
                     "startColumn": 4,
-                    "startOffset": 90349,
+                    "startOffset": 90352,
                     "endLine": 1117,
                     "endColumn": 12,
-                    "endOffset": 90514
+                    "endOffset": 90517
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4787,10 +4787,10 @@
                 "to": {
                     "startLine": 1118,
                     "startColumn": 4,
-                    "startOffset": 90519,
+                    "startOffset": 90522,
                     "endLine": 1120,
                     "endColumn": 12,
-                    "endOffset": 90655
+                    "endOffset": 90658
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4800,9 +4800,9 @@
                 "to": {
                     "startLine": 1121,
                     "startColumn": 4,
-                    "startOffset": 90660,
+                    "startOffset": 90663,
                     "endColumn": 63,
-                    "endOffset": 90719
+                    "endOffset": 90722
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4812,10 +4812,10 @@
                 "to": {
                     "startLine": 1122,
                     "startColumn": 4,
-                    "startOffset": 90724,
+                    "startOffset": 90727,
                     "endLine": 1125,
                     "endColumn": 12,
-                    "endOffset": 91001
+                    "endOffset": 91004
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4825,10 +4825,10 @@
                 "to": {
                     "startLine": 1126,
                     "startColumn": 4,
-                    "startOffset": 91006,
+                    "startOffset": 91009,
                     "endLine": 1129,
                     "endColumn": 12,
-                    "endOffset": 91287
+                    "endOffset": 91290
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4838,10 +4838,10 @@
                 "to": {
                     "startLine": 1130,
                     "startColumn": 4,
-                    "startOffset": 91292,
+                    "startOffset": 91295,
                     "endLine": 1139,
                     "endColumn": 12,
-                    "endOffset": 91963
+                    "endOffset": 91966
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4851,10 +4851,10 @@
                 "to": {
                     "startLine": 1140,
                     "startColumn": 4,
-                    "startOffset": 91968,
+                    "startOffset": 91971,
                     "endLine": 1144,
                     "endColumn": 12,
-                    "endOffset": 92227
+                    "endOffset": 92230
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4864,10 +4864,10 @@
                 "to": {
                     "startLine": 1145,
                     "startColumn": 4,
-                    "startOffset": 92232,
+                    "startOffset": 92235,
                     "endLine": 1151,
                     "endColumn": 12,
-                    "endOffset": 92565
+                    "endOffset": 92568
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4877,10 +4877,10 @@
                 "to": {
                     "startLine": 1152,
                     "startColumn": 4,
-                    "startOffset": 92570,
+                    "startOffset": 92573,
                     "endLine": 1157,
                     "endColumn": 12,
-                    "endOffset": 92918
+                    "endOffset": 92921
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4890,9 +4890,9 @@
                 "to": {
                     "startLine": 1158,
                     "startColumn": 4,
-                    "startOffset": 92923,
+                    "startOffset": 92926,
                     "endColumn": 93,
-                    "endOffset": 93012
+                    "endOffset": 93015
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4902,10 +4902,10 @@
                 "to": {
                     "startLine": 1159,
                     "startColumn": 4,
-                    "startOffset": 93017,
+                    "startOffset": 93020,
                     "endLine": 1161,
                     "endColumn": 12,
-                    "endOffset": 93198
+                    "endOffset": 93201
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4915,10 +4915,10 @@
                 "to": {
                     "startLine": 1162,
                     "startColumn": 4,
-                    "startOffset": 93203,
+                    "startOffset": 93206,
                     "endLine": 1165,
                     "endColumn": 12,
-                    "endOffset": 93504
+                    "endOffset": 93507
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4928,10 +4928,10 @@
                 "to": {
                     "startLine": 1166,
                     "startColumn": 4,
-                    "startOffset": 93509,
+                    "startOffset": 93512,
                     "endLine": 1170,
                     "endColumn": 12,
-                    "endOffset": 93766
+                    "endOffset": 93769
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4941,10 +4941,10 @@
                 "to": {
                     "startLine": 1171,
                     "startColumn": 4,
-                    "startOffset": 93771,
+                    "startOffset": 93774,
                     "endLine": 1172,
                     "endColumn": 12,
-                    "endOffset": 93891
+                    "endOffset": 93894
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4954,10 +4954,10 @@
                 "to": {
                     "startLine": 1173,
                     "startColumn": 4,
-                    "startOffset": 93896,
+                    "startOffset": 93899,
                     "endLine": 1174,
                     "endColumn": 12,
-                    "endOffset": 94018
+                    "endOffset": 94021
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4967,10 +4967,10 @@
                 "to": {
                     "startLine": 1175,
                     "startColumn": 4,
-                    "startOffset": 94023,
+                    "startOffset": 94026,
                     "endLine": 1177,
                     "endColumn": 12,
-                    "endOffset": 94257
+                    "endOffset": 94260
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4980,10 +4980,10 @@
                 "to": {
                     "startLine": 1178,
                     "startColumn": 4,
-                    "startOffset": 94262,
+                    "startOffset": 94265,
                     "endLine": 1180,
                     "endColumn": 12,
-                    "endOffset": 94468
+                    "endOffset": 94471
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4993,10 +4993,10 @@
                 "to": {
                     "startLine": 1181,
                     "startColumn": 4,
-                    "startOffset": 94473,
+                    "startOffset": 94476,
                     "endLine": 1182,
                     "endColumn": 12,
-                    "endOffset": 94587
+                    "endOffset": 94590
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5006,10 +5006,10 @@
                 "to": {
                     "startLine": 1183,
                     "startColumn": 4,
-                    "startOffset": 94592,
+                    "startOffset": 94595,
                     "endLine": 1186,
                     "endColumn": 12,
-                    "endOffset": 94780
+                    "endOffset": 94783
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5019,10 +5019,10 @@
                 "to": {
                     "startLine": 1187,
                     "startColumn": 4,
-                    "startOffset": 94785,
+                    "startOffset": 94788,
                     "endLine": 1193,
                     "endColumn": 12,
-                    "endOffset": 95235
+                    "endOffset": 95238
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5032,10 +5032,10 @@
                 "to": {
                     "startLine": 1194,
                     "startColumn": 4,
-                    "startOffset": 95240,
+                    "startOffset": 95243,
                     "endLine": 1196,
                     "endColumn": 12,
-                    "endOffset": 95416
+                    "endOffset": 95419
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5045,10 +5045,10 @@
                 "to": {
                     "startLine": 1197,
                     "startColumn": 4,
-                    "startOffset": 95421,
+                    "startOffset": 95424,
                     "endLine": 1199,
                     "endColumn": 12,
-                    "endOffset": 95538
+                    "endOffset": 95541
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5058,10 +5058,10 @@
                 "to": {
                     "startLine": 1200,
                     "startColumn": 4,
-                    "startOffset": 95543,
+                    "startOffset": 95546,
                     "endLine": 1203,
                     "endColumn": 12,
-                    "endOffset": 95797
+                    "endOffset": 95800
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5071,10 +5071,10 @@
                 "to": {
                     "startLine": 1204,
                     "startColumn": 4,
-                    "startOffset": 95802,
+                    "startOffset": 95805,
                     "endLine": 1205,
                     "endColumn": 12,
-                    "endOffset": 95910
+                    "endOffset": 95913
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5084,10 +5084,10 @@
                 "to": {
                     "startLine": 1206,
                     "startColumn": 4,
-                    "startOffset": 95915,
+                    "startOffset": 95918,
                     "endLine": 1209,
                     "endColumn": 12,
-                    "endOffset": 96097
+                    "endOffset": 96100
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5097,10 +5097,10 @@
                 "to": {
                     "startLine": 1210,
                     "startColumn": 4,
-                    "startOffset": 96102,
+                    "startOffset": 96105,
                     "endLine": 1211,
                     "endColumn": 12,
-                    "endOffset": 96199
+                    "endOffset": 96202
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5110,10 +5110,10 @@
                 "to": {
                     "startLine": 1212,
                     "startColumn": 4,
-                    "startOffset": 96204,
+                    "startOffset": 96207,
                     "endLine": 1217,
                     "endColumn": 12,
-                    "endOffset": 96643
+                    "endOffset": 96646
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5123,10 +5123,10 @@
                 "to": {
                     "startLine": 1218,
                     "startColumn": 4,
-                    "startOffset": 96648,
+                    "startOffset": 96651,
                     "endLine": 1219,
                     "endColumn": 12,
-                    "endOffset": 96767
+                    "endOffset": 96770
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5136,10 +5136,10 @@
                 "to": {
                     "startLine": 1220,
                     "startColumn": 4,
-                    "startOffset": 96772,
+                    "startOffset": 96775,
                     "endLine": 1223,
                     "endColumn": 12,
-                    "endOffset": 97052
+                    "endOffset": 97055
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5149,10 +5149,10 @@
                 "to": {
                     "startLine": 1224,
                     "startColumn": 4,
-                    "startOffset": 97057,
+                    "startOffset": 97060,
                     "endLine": 1235,
                     "endColumn": 12,
-                    "endOffset": 97939
+                    "endOffset": 97942
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5162,10 +5162,10 @@
                 "to": {
                     "startLine": 1236,
                     "startColumn": 4,
-                    "startOffset": 97944,
+                    "startOffset": 97947,
                     "endLine": 1241,
                     "endColumn": 12,
-                    "endOffset": 98233
+                    "endOffset": 98236
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5175,10 +5175,10 @@
                 "to": {
                     "startLine": 1242,
                     "startColumn": 4,
-                    "startOffset": 98238,
+                    "startOffset": 98241,
                     "endLine": 1250,
                     "endColumn": 12,
-                    "endOffset": 98803
+                    "endOffset": 98806
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5188,10 +5188,10 @@
                 "to": {
                     "startLine": 1251,
                     "startColumn": 4,
-                    "startOffset": 98808,
+                    "startOffset": 98811,
                     "endLine": 1261,
                     "endColumn": 12,
-                    "endOffset": 99535
+                    "endOffset": 99538
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5201,10 +5201,10 @@
                 "to": {
                     "startLine": 1262,
                     "startColumn": 4,
-                    "startOffset": 99540,
+                    "startOffset": 99543,
                     "endLine": 1264,
                     "endColumn": 12,
-                    "endOffset": 99707
+                    "endOffset": 99710
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5214,10 +5214,10 @@
                 "to": {
                     "startLine": 1265,
                     "startColumn": 4,
-                    "startOffset": 99712,
+                    "startOffset": 99715,
                     "endLine": 1269,
                     "endColumn": 12,
-                    "endOffset": 100043
+                    "endOffset": 100046
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5227,10 +5227,10 @@
                 "to": {
                     "startLine": 1270,
                     "startColumn": 4,
-                    "startOffset": 100048,
+                    "startOffset": 100051,
                     "endLine": 1281,
                     "endColumn": 12,
-                    "endOffset": 100910
+                    "endOffset": 100913
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5240,10 +5240,10 @@
                 "to": {
                     "startLine": 1282,
                     "startColumn": 4,
-                    "startOffset": 100915,
+                    "startOffset": 100918,
                     "endLine": 1286,
                     "endColumn": 12,
-                    "endOffset": 101188
+                    "endOffset": 101191
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5253,10 +5253,10 @@
                 "to": {
                     "startLine": 1287,
                     "startColumn": 4,
-                    "startOffset": 101193,
+                    "startOffset": 101196,
                     "endLine": 1296,
                     "endColumn": 12,
-                    "endOffset": 101779
+                    "endOffset": 101782
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"
@@ -5266,10 +5266,10 @@
                 "to": {
                     "startLine": 1297,
                     "startColumn": 4,
-                    "startOffset": 101784,
+                    "startOffset": 101787,
                     "endLine": 1334,
                     "endColumn": 12,
-                    "endOffset": 104641
+                    "endOffset": 104644
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5279,10 +5279,10 @@
                 "to": {
                     "startLine": 1335,
                     "startColumn": 4,
-                    "startOffset": 104646,
+                    "startOffset": 104649,
                     "endLine": 1373,
                     "endColumn": 12,
-                    "endOffset": 107643
+                    "endOffset": 107646
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5292,9 +5292,9 @@
                 "to": {
                     "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 107648,
+                    "startOffset": 107651,
                     "endColumn": 61,
-                    "endOffset": 107705
+                    "endOffset": 107708
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5304,10 +5304,10 @@
                 "to": {
                     "startLine": 1375,
                     "startColumn": 4,
-                    "startOffset": 107710,
+                    "startOffset": 107713,
                     "endLine": 1384,
                     "endColumn": 12,
-                    "endOffset": 108335
+                    "endOffset": 108338
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5317,10 +5317,10 @@
                 "to": {
                     "startLine": 1385,
                     "startColumn": 4,
-                    "startOffset": 108340,
+                    "startOffset": 108343,
                     "endLine": 1393,
                     "endColumn": 12,
-                    "endOffset": 108949
+                    "endOffset": 108952
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5330,9 +5330,9 @@
                 "to": {
                     "startLine": 1394,
                     "startColumn": 4,
-                    "startOffset": 108954,
+                    "startOffset": 108957,
                     "endColumn": 85,
-                    "endOffset": 109035
+                    "endOffset": 109038
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5342,10 +5342,10 @@
                 "to": {
                     "startLine": 1395,
                     "startColumn": 4,
-                    "startOffset": 109040,
+                    "startOffset": 109043,
                     "endLine": 1396,
                     "endColumn": 12,
-                    "endOffset": 109148
+                    "endOffset": 109151
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5355,10 +5355,10 @@
                 "to": {
                     "startLine": 1397,
                     "startColumn": 4,
-                    "startOffset": 109153,
+                    "startOffset": 109156,
                     "endLine": 1400,
                     "endColumn": 12,
-                    "endOffset": 109377
+                    "endOffset": 109380
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5368,10 +5368,10 @@
                 "to": {
                     "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 109382,
+                    "startOffset": 109385,
                     "endLine": 1403,
                     "endColumn": 12,
-                    "endOffset": 109537
+                    "endOffset": 109540
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5381,10 +5381,10 @@
                 "to": {
                     "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 109542,
+                    "startOffset": 109545,
                     "endLine": 1406,
                     "endColumn": 12,
-                    "endOffset": 109689
+                    "endOffset": 109692
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5394,10 +5394,10 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 109694,
+                    "startOffset": 109697,
                     "endLine": 1409,
                     "endColumn": 12,
-                    "endOffset": 109860
+                    "endOffset": 109863
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5407,10 +5407,10 @@
                 "to": {
                     "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 109865,
+                    "startOffset": 109868,
                     "endLine": 1412,
                     "endColumn": 12,
-                    "endOffset": 110027
+                    "endOffset": 110030
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5420,10 +5420,10 @@
                 "to": {
                     "startLine": 1413,
                     "startColumn": 4,
-                    "startOffset": 110032,
+                    "startOffset": 110035,
                     "endLine": 1416,
                     "endColumn": 12,
-                    "endOffset": 110270
+                    "endOffset": 110273
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5433,10 +5433,10 @@
                 "to": {
                     "startLine": 1417,
                     "startColumn": 4,
-                    "startOffset": 110275,
+                    "startOffset": 110278,
                     "endLine": 1419,
                     "endColumn": 12,
-                    "endOffset": 110440
+                    "endOffset": 110443
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5446,10 +5446,10 @@
                 "to": {
                     "startLine": 1420,
                     "startColumn": 4,
-                    "startOffset": 110445,
+                    "startOffset": 110448,
                     "endLine": 1422,
                     "endColumn": 12,
-                    "endOffset": 110613
+                    "endOffset": 110616
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5459,10 +5459,10 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 110618,
+                    "startOffset": 110621,
                     "endLine": 1425,
                     "endColumn": 12,
-                    "endOffset": 110784
+                    "endOffset": 110787
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5472,10 +5472,10 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 110789,
+                    "startOffset": 110792,
                     "endLine": 1429,
                     "endColumn": 12,
-                    "endOffset": 111058
+                    "endOffset": 111061
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5485,10 +5485,10 @@
                 "to": {
                     "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 111063,
+                    "startOffset": 111066,
                     "endLine": 1432,
                     "endColumn": 12,
-                    "endOffset": 111257
+                    "endOffset": 111260
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5498,10 +5498,10 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 111262,
+                    "startOffset": 111265,
                     "endLine": 1436,
                     "endColumn": 12,
-                    "endOffset": 111462
+                    "endOffset": 111465
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5511,10 +5511,10 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 111467,
+                    "startOffset": 111470,
                     "endLine": 1440,
                     "endColumn": 12,
-                    "endOffset": 111792
+                    "endOffset": 111795
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5524,9 +5524,9 @@
                 "to": {
                     "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 111797,
+                    "startOffset": 111800,
                     "endColumn": 83,
-                    "endOffset": 111876
+                    "endOffset": 111879
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5536,9 +5536,9 @@
                 "to": {
                     "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 111881,
+                    "startOffset": 111884,
                     "endColumn": 95,
-                    "endOffset": 111972
+                    "endOffset": 111975
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5548,9 +5548,9 @@
                 "to": {
                     "startLine": 1443,
                     "startColumn": 4,
-                    "startOffset": 111977,
+                    "startOffset": 111980,
                     "endColumn": 95,
-                    "endOffset": 112068
+                    "endOffset": 112071
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5560,9 +5560,9 @@
                 "to": {
                     "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 112073,
+                    "startOffset": 112076,
                     "endColumn": 97,
-                    "endOffset": 112166
+                    "endOffset": 112169
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5572,9 +5572,9 @@
                 "to": {
                     "startLine": 1445,
                     "startColumn": 4,
-                    "startOffset": 112171,
+                    "startOffset": 112174,
                     "endColumn": 99,
-                    "endOffset": 112266
+                    "endOffset": 112269
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5584,9 +5584,9 @@
                 "to": {
                     "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 112271,
+                    "startOffset": 112274,
                     "endColumn": 101,
-                    "endOffset": 112368
+                    "endOffset": 112371
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5596,9 +5596,9 @@
                 "to": {
                     "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 112373,
+                    "startOffset": 112376,
                     "endColumn": 101,
-                    "endOffset": 112470
+                    "endOffset": 112473
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5608,9 +5608,9 @@
                 "to": {
                     "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 112475,
+                    "startOffset": 112478,
                     "endColumn": 101,
-                    "endOffset": 112572
+                    "endOffset": 112575
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5620,9 +5620,9 @@
                 "to": {
                     "startLine": 1449,
                     "startColumn": 4,
-                    "startOffset": 112577,
+                    "startOffset": 112580,
                     "endColumn": 101,
-                    "endOffset": 112674
+                    "endOffset": 112677
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5632,9 +5632,9 @@
                 "to": {
                     "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 112679,
+                    "startOffset": 112682,
                     "endColumn": 101,
-                    "endOffset": 112776
+                    "endOffset": 112779
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5644,9 +5644,9 @@
                 "to": {
                     "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 112781,
+                    "startOffset": 112784,
                     "endColumn": 99,
-                    "endOffset": 112876
+                    "endOffset": 112879
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5656,9 +5656,9 @@
                 "to": {
                     "startLine": 1452,
                     "startColumn": 4,
-                    "startOffset": 112881,
+                    "startOffset": 112884,
                     "endColumn": 95,
-                    "endOffset": 112972
+                    "endOffset": 112975
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5668,9 +5668,9 @@
                 "to": {
                     "startLine": 1453,
                     "startColumn": 4,
-                    "startOffset": 112977,
+                    "startOffset": 112980,
                     "endColumn": 111,
-                    "endOffset": 113084
+                    "endOffset": 113087
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5680,9 +5680,9 @@
                 "to": {
                     "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 113089,
+                    "startOffset": 113092,
                     "endColumn": 128,
-                    "endOffset": 113213
+                    "endOffset": 113216
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5692,9 +5692,9 @@
                 "to": {
                     "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 113218,
+                    "startOffset": 113221,
                     "endColumn": 122,
-                    "endOffset": 113336
+                    "endOffset": 113339
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5704,10 +5704,10 @@
                 "to": {
                     "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 113341,
+                    "startOffset": 113344,
                     "endLine": 1457,
                     "endColumn": 12,
-                    "endOffset": 113490
+                    "endOffset": 113493
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5717,10 +5717,10 @@
                 "to": {
                     "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 113495,
+                    "startOffset": 113498,
                     "endLine": 1459,
                     "endColumn": 12,
-                    "endOffset": 113644
+                    "endOffset": 113647
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5730,9 +5730,9 @@
                 "to": {
                     "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 113649,
+                    "startOffset": 113652,
                     "endColumn": 97,
-                    "endOffset": 113742
+                    "endOffset": 113745
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5742,9 +5742,9 @@
                 "to": {
                     "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 113747,
+                    "startOffset": 113750,
                     "endColumn": 113,
-                    "endOffset": 113856
+                    "endOffset": 113859
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5754,9 +5754,9 @@
                 "to": {
                     "startLine": 1462,
                     "startColumn": 4,
-                    "startOffset": 113861,
+                    "startOffset": 113864,
                     "endColumn": 93,
-                    "endOffset": 113950
+                    "endOffset": 113953
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5766,10 +5766,10 @@
                 "to": {
                     "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 113955,
+                    "startOffset": 113958,
                     "endLine": 1464,
                     "endColumn": 12,
-                    "endOffset": 114090
+                    "endOffset": 114093
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5779,10 +5779,10 @@
                 "to": {
                     "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 114095,
+                    "startOffset": 114098,
                     "endLine": 1466,
                     "endColumn": 12,
-                    "endOffset": 114224
+                    "endOffset": 114227
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5792,9 +5792,9 @@
                 "to": {
                     "startLine": 1467,
                     "startColumn": 4,
-                    "startOffset": 114229,
+                    "startOffset": 114232,
                     "endColumn": 95,
-                    "endOffset": 114320
+                    "endOffset": 114323
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5804,9 +5804,9 @@
                 "to": {
                     "startLine": 1468,
                     "startColumn": 4,
-                    "startOffset": 114325,
+                    "startOffset": 114328,
                     "endColumn": 111,
-                    "endOffset": 114432
+                    "endOffset": 114435
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5816,9 +5816,9 @@
                 "to": {
                     "startLine": 1469,
                     "startColumn": 4,
-                    "startOffset": 114437,
+                    "startOffset": 114440,
                     "endColumn": 99,
-                    "endOffset": 114532
+                    "endOffset": 114535
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5828,9 +5828,9 @@
                 "to": {
                     "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 114537,
+                    "startOffset": 114540,
                     "endColumn": 115,
-                    "endOffset": 114648
+                    "endOffset": 114651
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5840,9 +5840,9 @@
                 "to": {
                     "startLine": 1471,
                     "startColumn": 4,
-                    "startOffset": 114653,
+                    "startOffset": 114656,
                     "endColumn": 95,
-                    "endOffset": 114744
+                    "endOffset": 114747
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5852,9 +5852,9 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 114749,
+                    "startOffset": 114752,
                     "endColumn": 111,
-                    "endOffset": 114856
+                    "endOffset": 114859
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5864,10 +5864,10 @@
                 "to": {
                     "startLine": 1473,
                     "startColumn": 4,
-                    "startOffset": 114861,
+                    "startOffset": 114864,
                     "endLine": 1474,
                     "endColumn": 12,
-                    "endOffset": 114996
+                    "endOffset": 114999
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5877,9 +5877,9 @@
                 "to": {
                     "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 115001,
+                    "startOffset": 115004,
                     "endColumn": 135,
-                    "endOffset": 115132
+                    "endOffset": 115135
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5889,10 +5889,10 @@
                 "to": {
                     "startLine": 1476,
                     "startColumn": 4,
-                    "startOffset": 115137,
+                    "startOffset": 115140,
                     "endLine": 1477,
                     "endColumn": 12,
-                    "endOffset": 115296
+                    "endOffset": 115299
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5902,9 +5902,9 @@
                 "to": {
                     "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 115301,
+                    "startOffset": 115304,
                     "endColumn": 129,
-                    "endOffset": 115426
+                    "endOffset": 115429
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5914,10 +5914,10 @@
                 "to": {
                     "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 115431,
+                    "startOffset": 115434,
                     "endLine": 1480,
                     "endColumn": 12,
-                    "endOffset": 115584
+                    "endOffset": 115587
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5927,10 +5927,10 @@
                 "to": {
                     "startLine": 1481,
                     "startColumn": 4,
-                    "startOffset": 115589,
+                    "startOffset": 115592,
                     "endLine": 1482,
                     "endColumn": 12,
-                    "endOffset": 115734
+                    "endOffset": 115737
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5940,9 +5940,9 @@
                 "to": {
                     "startLine": 1483,
                     "startColumn": 4,
-                    "startOffset": 115739,
+                    "startOffset": 115742,
                     "endColumn": 140,
-                    "endOffset": 115875
+                    "endOffset": 115878
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5952,10 +5952,10 @@
                 "to": {
                     "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 115880,
+                    "startOffset": 115883,
                     "endLine": 1485,
                     "endColumn": 12,
-                    "endOffset": 116019
+                    "endOffset": 116022
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5965,9 +5965,9 @@
                 "to": {
                     "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 116024,
+                    "startOffset": 116027,
                     "endColumn": 134,
-                    "endOffset": 116154
+                    "endOffset": 116157
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5977,9 +5977,9 @@
                 "to": {
                     "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 116159,
+                    "startOffset": 116162,
                     "endColumn": 111,
-                    "endOffset": 116266
+                    "endOffset": 116269
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5989,9 +5989,9 @@
                 "to": {
                     "startLine": 1488,
                     "startColumn": 4,
-                    "startOffset": 116271,
+                    "startOffset": 116274,
                     "endColumn": 127,
-                    "endOffset": 116394
+                    "endOffset": 116397
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6001,10 +6001,10 @@
                 "to": {
                     "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 116399,
+                    "startOffset": 116402,
                     "endLine": 1490,
                     "endColumn": 12,
-                    "endOffset": 116530
+                    "endOffset": 116533
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6014,10 +6014,10 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 116535,
+                    "startOffset": 116538,
                     "endLine": 1492,
                     "endColumn": 12,
-                    "endOffset": 116672
+                    "endOffset": 116675
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6027,10 +6027,10 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 116677,
+                    "startOffset": 116680,
                     "endLine": 1494,
                     "endColumn": 12,
-                    "endOffset": 116814
+                    "endOffset": 116817
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6040,9 +6040,9 @@
                 "to": {
                     "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 116819,
+                    "startOffset": 116822,
                     "endColumn": 111,
-                    "endOffset": 116926
+                    "endOffset": 116929
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6052,9 +6052,9 @@
                 "to": {
                     "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 116931,
+                    "startOffset": 116934,
                     "endColumn": 139,
-                    "endOffset": 117066
+                    "endOffset": 117069
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6064,10 +6064,10 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 117071,
+                    "startOffset": 117074,
                     "endLine": 1499,
                     "endColumn": 12,
-                    "endOffset": 117267
+                    "endOffset": 117270
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"
@@ -6077,9 +6077,9 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 117272,
+                    "startOffset": 117275,
                     "endColumn": 91,
-                    "endOffset": 117359
+                    "endOffset": 117362
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"
@@ -6089,10 +6089,10 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 117364,
+                    "startOffset": 117367,
                     "endLine": 1503,
                     "endColumn": 12,
-                    "endOffset": 117554
+                    "endOffset": 117557
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"
@@ -6102,10 +6102,10 @@
                 "to": {
                     "startLine": 1504,
                     "startColumn": 4,
-                    "startOffset": 117559,
+                    "startOffset": 117562,
                     "endLine": 1506,
                     "endColumn": 12,
-                    "endOffset": 117738
+                    "endOffset": 117741
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"
@@ -6115,10 +6115,10 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 117743,
+                    "startOffset": 117746,
                     "endLine": 1509,
                     "endColumn": 12,
-                    "endOffset": 117913
+                    "endOffset": 117916
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"
@@ -6128,10 +6128,10 @@
                 "to": {
                     "startLine": 1510,
                     "startColumn": 4,
-                    "startOffset": 117918,
+                    "startOffset": 117921,
                     "endLine": 1513,
                     "endColumn": 12,
-                    "endOffset": 118166
+                    "endOffset": 118169
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"
@@ -6141,10 +6141,10 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 118171,
+                    "startOffset": 118174,
                     "endLine": 1518,
                     "endColumn": 12,
-                    "endOffset": 118457
+                    "endOffset": 118460
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"
@@ -6154,9 +6154,9 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 118462,
+                    "startOffset": 118465,
                     "endColumn": 67,
-                    "endOffset": 118525
+                    "endOffset": 118528
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6166,9 +6166,9 @@
                 "to": {
                     "startLine": 1520,
                     "startColumn": 4,
-                    "startOffset": 118530,
+                    "startOffset": 118533,
                     "endColumn": 72,
-                    "endOffset": 118598
+                    "endOffset": 118601
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6178,9 +6178,9 @@
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 118603,
+                    "startOffset": 118606,
                     "endColumn": 73,
-                    "endOffset": 118672
+                    "endOffset": 118675
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6190,9 +6190,9 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 118677,
+                    "startOffset": 118680,
                     "endColumn": 72,
-                    "endOffset": 118745
+                    "endOffset": 118748
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6202,9 +6202,9 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 118750,
+                    "startOffset": 118753,
                     "endColumn": 73,
-                    "endOffset": 118819
+                    "endOffset": 118822
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6214,10 +6214,10 @@
                 "to": {
                     "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 118824,
+                    "startOffset": 118827,
                     "endLine": 1525,
                     "endColumn": 12,
-                    "endOffset": 118965
+                    "endOffset": 118968
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6227,10 +6227,10 @@
                 "to": {
                     "startLine": 1526,
                     "startColumn": 4,
-                    "startOffset": 118970,
+                    "startOffset": 118973,
                     "endLine": 1527,
                     "endColumn": 12,
-                    "endOffset": 119109
+                    "endOffset": 119112
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6240,10 +6240,10 @@
                 "to": {
                     "startLine": 1528,
                     "startColumn": 4,
-                    "startOffset": 119114,
+                    "startOffset": 119117,
                     "endLine": 1529,
                     "endColumn": 12,
-                    "endOffset": 119247
+                    "endOffset": 119250
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6253,9 +6253,9 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 119252,
+                    "startOffset": 119255,
                     "endColumn": 65,
-                    "endOffset": 119313
+                    "endOffset": 119316
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6265,9 +6265,9 @@
                 "to": {
                     "startLine": 1531,
                     "startColumn": 4,
-                    "startOffset": 119318,
+                    "startOffset": 119321,
                     "endColumn": 89,
-                    "endOffset": 119403
+                    "endOffset": 119406
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6277,9 +6277,9 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 119408,
+                    "startOffset": 119411,
                     "endColumn": 79,
-                    "endOffset": 119483
+                    "endOffset": 119486
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6289,9 +6289,9 @@
                 "to": {
                     "startLine": 1533,
                     "startColumn": 4,
-                    "startOffset": 119488,
+                    "startOffset": 119491,
                     "endColumn": 91,
-                    "endOffset": 119575
+                    "endOffset": 119578
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6301,9 +6301,9 @@
                 "to": {
                     "startLine": 1534,
                     "startColumn": 4,
-                    "startOffset": 119580,
+                    "startOffset": 119583,
                     "endColumn": 97,
-                    "endOffset": 119673
+                    "endOffset": 119676
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6313,10 +6313,10 @@
                 "to": {
                     "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 119678,
+                    "startOffset": 119681,
                     "endLine": 1536,
                     "endColumn": 12,
-                    "endOffset": 119783
+                    "endOffset": 119786
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6326,9 +6326,9 @@
                 "to": {
                     "startLine": 1537,
                     "startColumn": 4,
-                    "startOffset": 119788,
+                    "startOffset": 119791,
                     "endColumn": 77,
-                    "endOffset": 119861
+                    "endOffset": 119864
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6338,9 +6338,9 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 119866,
+                    "startOffset": 119869,
                     "endColumn": 105,
-                    "endOffset": 119967
+                    "endOffset": 119970
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6350,9 +6350,9 @@
                 "to": {
                     "startLine": 1539,
                     "startColumn": 4,
-                    "startOffset": 119972,
+                    "startOffset": 119975,
                     "endColumn": 91,
-                    "endOffset": 120059
+                    "endOffset": 120062
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6362,9 +6362,9 @@
                 "to": {
                     "startLine": 1540,
                     "startColumn": 4,
-                    "startOffset": 120064,
+                    "startOffset": 120067,
                     "endColumn": 103,
-                    "endOffset": 120163
+                    "endOffset": 120166
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6374,9 +6374,9 @@
                 "to": {
                     "startLine": 1541,
                     "startColumn": 4,
-                    "startOffset": 120168,
+                    "startOffset": 120171,
                     "endColumn": 109,
-                    "endOffset": 120273
+                    "endOffset": 120276
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6386,10 +6386,10 @@
                 "to": {
                     "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 120278,
+                    "startOffset": 120281,
                     "endLine": 1543,
                     "endColumn": 12,
-                    "endOffset": 120395
+                    "endOffset": 120398
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6399,10 +6399,10 @@
                 "to": {
                     "startLine": 1544,
                     "startColumn": 4,
-                    "startOffset": 120400,
+                    "startOffset": 120403,
                     "endLine": 1547,
                     "endColumn": 12,
-                    "endOffset": 120558
+                    "endOffset": 120561
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6412,10 +6412,10 @@
                 "to": {
                     "startLine": 1548,
                     "startColumn": 4,
-                    "startOffset": 120563,
+                    "startOffset": 120566,
                     "endLine": 1551,
                     "endColumn": 12,
-                    "endOffset": 120715
+                    "endOffset": 120718
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6425,9 +6425,9 @@
                 "to": {
                     "startLine": 1552,
                     "startColumn": 4,
-                    "startOffset": 120720,
+                    "startOffset": 120723,
                     "endColumn": 79,
-                    "endOffset": 120795
+                    "endOffset": 120798
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6437,9 +6437,9 @@
                 "to": {
                     "startLine": 1553,
                     "startColumn": 4,
-                    "startOffset": 120800,
+                    "startOffset": 120803,
                     "endColumn": 99,
-                    "endOffset": 120895
+                    "endOffset": 120898
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6449,9 +6449,9 @@
                 "to": {
                     "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 120900,
+                    "startOffset": 120903,
                     "endColumn": 89,
-                    "endOffset": 120985
+                    "endOffset": 120988
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6461,9 +6461,9 @@
                 "to": {
                     "startLine": 1555,
                     "startColumn": 4,
-                    "startOffset": 120990,
+                    "startOffset": 120993,
                     "endColumn": 109,
-                    "endOffset": 121095
+                    "endOffset": 121098
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6473,9 +6473,9 @@
                 "to": {
                     "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 121100,
+                    "startOffset": 121103,
                     "endColumn": 91,
-                    "endOffset": 121187
+                    "endOffset": 121190
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6485,10 +6485,10 @@
                 "to": {
                     "startLine": 1557,
                     "startColumn": 4,
-                    "startOffset": 121192,
+                    "startOffset": 121195,
                     "endLine": 1558,
                     "endColumn": 12,
-                    "endOffset": 121287
+                    "endOffset": 121290
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6498,10 +6498,10 @@
                 "to": {
                     "startLine": 1559,
                     "startColumn": 4,
-                    "startOffset": 121292,
+                    "startOffset": 121295,
                     "endLine": 1560,
                     "endColumn": 12,
-                    "endOffset": 121399
+                    "endOffset": 121402
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6511,10 +6511,10 @@
                 "to": {
                     "startLine": 1561,
                     "startColumn": 4,
-                    "startOffset": 121404,
+                    "startOffset": 121407,
                     "endLine": 1562,
                     "endColumn": 12,
-                    "endOffset": 121513
+                    "endOffset": 121516
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6524,10 +6524,10 @@
                 "to": {
                     "startLine": 1563,
                     "startColumn": 4,
-                    "startOffset": 121518,
+                    "startOffset": 121521,
                     "endLine": 1564,
                     "endColumn": 12,
-                    "endOffset": 121629
+                    "endOffset": 121632
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6537,10 +6537,10 @@
                 "to": {
                     "startLine": 1565,
                     "startColumn": 4,
-                    "startOffset": 121634,
+                    "startOffset": 121637,
                     "endLine": 1566,
                     "endColumn": 12,
-                    "endOffset": 121745
+                    "endOffset": 121748
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6550,9 +6550,9 @@
                 "to": {
                     "startLine": 1567,
                     "startColumn": 4,
-                    "startOffset": 121750,
+                    "startOffset": 121753,
                     "endColumn": 93,
-                    "endOffset": 121839
+                    "endOffset": 121842
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6562,9 +6562,9 @@
                 "to": {
                     "startLine": 1568,
                     "startColumn": 4,
-                    "startOffset": 121844,
+                    "startOffset": 121847,
                     "endColumn": 113,
-                    "endOffset": 121953
+                    "endOffset": 121956
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6574,9 +6574,9 @@
                 "to": {
                     "startLine": 1569,
                     "startColumn": 4,
-                    "startOffset": 121958,
+                    "startOffset": 121961,
                     "endColumn": 111,
-                    "endOffset": 122065
+                    "endOffset": 122068
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6586,10 +6586,10 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 122070,
+                    "startOffset": 122073,
                     "endLine": 1571,
                     "endColumn": 12,
-                    "endOffset": 122167
+                    "endOffset": 122170
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6599,10 +6599,10 @@
                 "to": {
                     "startLine": 1572,
                     "startColumn": 4,
-                    "startOffset": 122172,
+                    "startOffset": 122175,
                     "endLine": 1573,
                     "endColumn": 12,
-                    "endOffset": 122287
+                    "endOffset": 122290
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6612,10 +6612,10 @@
                 "to": {
                     "startLine": 1574,
                     "startColumn": 4,
-                    "startOffset": 122292,
+                    "startOffset": 122295,
                     "endLine": 1575,
                     "endColumn": 12,
-                    "endOffset": 122409
+                    "endOffset": 122412
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6625,9 +6625,9 @@
                 "to": {
                     "startLine": 1576,
                     "startColumn": 4,
-                    "startOffset": 122414,
+                    "startOffset": 122417,
                     "endColumn": 81,
-                    "endOffset": 122491
+                    "endOffset": 122494
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6637,9 +6637,9 @@
                 "to": {
                     "startLine": 1577,
                     "startColumn": 4,
-                    "startOffset": 122496,
+                    "startOffset": 122499,
                     "endColumn": 103,
-                    "endOffset": 122595
+                    "endOffset": 122598
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6649,9 +6649,9 @@
                 "to": {
                     "startLine": 1578,
                     "startColumn": 4,
-                    "startOffset": 122600,
+                    "startOffset": 122603,
                     "endColumn": 119,
-                    "endOffset": 122715
+                    "endOffset": 122718
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6661,9 +6661,9 @@
                 "to": {
                     "startLine": 1579,
                     "startColumn": 4,
-                    "startOffset": 122720,
+                    "startOffset": 122723,
                     "endColumn": 125,
-                    "endOffset": 122841
+                    "endOffset": 122844
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6673,9 +6673,9 @@
                 "to": {
                     "startLine": 1580,
                     "startColumn": 4,
-                    "startOffset": 122846,
+                    "startOffset": 122849,
                     "endColumn": 97,
-                    "endOffset": 122939
+                    "endOffset": 122942
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6685,9 +6685,9 @@
                 "to": {
                     "startLine": 1581,
                     "startColumn": 4,
-                    "startOffset": 122944,
+                    "startOffset": 122947,
                     "endColumn": 93,
-                    "endOffset": 123033
+                    "endOffset": 123036
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6697,9 +6697,9 @@
                 "to": {
                     "startLine": 1582,
                     "startColumn": 4,
-                    "startOffset": 123038,
+                    "startOffset": 123041,
                     "endColumn": 87,
-                    "endOffset": 123121
+                    "endOffset": 123124
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6709,9 +6709,9 @@
                 "to": {
                     "startLine": 1583,
                     "startColumn": 4,
-                    "startOffset": 123126,
+                    "startOffset": 123129,
                     "endColumn": 111,
-                    "endOffset": 123233
+                    "endOffset": 123236
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6721,9 +6721,9 @@
                 "to": {
                     "startLine": 1584,
                     "startColumn": 4,
-                    "startOffset": 123238,
+                    "startOffset": 123241,
                     "endColumn": 115,
-                    "endOffset": 123349
+                    "endOffset": 123352
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6733,9 +6733,9 @@
                 "to": {
                     "startLine": 1585,
                     "startColumn": 4,
-                    "startOffset": 123354,
+                    "startOffset": 123357,
                     "endColumn": 121,
-                    "endOffset": 123471
+                    "endOffset": 123474
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6745,9 +6745,9 @@
                 "to": {
                     "startLine": 1586,
                     "startColumn": 4,
-                    "startOffset": 123476,
+                    "startOffset": 123479,
                     "endColumn": 111,
-                    "endOffset": 123583
+                    "endOffset": 123586
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6757,10 +6757,10 @@
                 "to": {
                     "startLine": 1587,
                     "startColumn": 4,
-                    "startOffset": 123588,
+                    "startOffset": 123591,
                     "endLine": 1589,
                     "endColumn": 12,
-                    "endOffset": 123758
+                    "endOffset": 123761
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6770,9 +6770,9 @@
                 "to": {
                     "startLine": 1590,
                     "startColumn": 4,
-                    "startOffset": 123763,
+                    "startOffset": 123766,
                     "endColumn": 115,
-                    "endOffset": 123874
+                    "endOffset": 123877
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6782,9 +6782,9 @@
                 "to": {
                     "startLine": 1591,
                     "startColumn": 4,
-                    "startOffset": 123879,
+                    "startOffset": 123882,
                     "endColumn": 85,
-                    "endOffset": 123960
+                    "endOffset": 123963
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6794,9 +6794,9 @@
                 "to": {
                     "startLine": 1592,
                     "startColumn": 4,
-                    "startOffset": 123965,
+                    "startOffset": 123968,
                     "endColumn": 91,
-                    "endOffset": 124052
+                    "endOffset": 124055
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6806,10 +6806,10 @@
                 "to": {
                     "startLine": 1593,
                     "startColumn": 4,
-                    "startOffset": 124057,
+                    "startOffset": 124060,
                     "endLine": 1594,
                     "endColumn": 12,
-                    "endOffset": 124164
+                    "endOffset": 124167
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6819,10 +6819,10 @@
                 "to": {
                     "startLine": 1595,
                     "startColumn": 4,
-                    "startOffset": 124169,
+                    "startOffset": 124172,
                     "endLine": 1596,
                     "endColumn": 12,
-                    "endOffset": 124288
+                    "endOffset": 124291
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6832,9 +6832,9 @@
                 "to": {
                     "startLine": 1597,
                     "startColumn": 4,
-                    "startOffset": 124293,
+                    "startOffset": 124296,
                     "endColumn": 66,
-                    "endOffset": 124355
+                    "endOffset": 124358
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6844,10 +6844,10 @@
                 "to": {
                     "startLine": 1598,
                     "startColumn": 4,
-                    "startOffset": 124360,
+                    "startOffset": 124363,
                     "endLine": 1599,
                     "endColumn": 12,
-                    "endOffset": 124481
+                    "endOffset": 124484
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6857,9 +6857,9 @@
                 "to": {
                     "startLine": 1600,
                     "startColumn": 4,
-                    "startOffset": 124486,
+                    "startOffset": 124489,
                     "endColumn": 67,
-                    "endOffset": 124549
+                    "endOffset": 124552
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6869,10 +6869,10 @@
                 "to": {
                     "startLine": 1601,
                     "startColumn": 4,
-                    "startOffset": 124554,
+                    "startOffset": 124557,
                     "endLine": 1602,
                     "endColumn": 12,
-                    "endOffset": 124677
+                    "endOffset": 124680
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6882,10 +6882,10 @@
                 "to": {
                     "startLine": 1603,
                     "startColumn": 4,
-                    "startOffset": 124682,
+                    "startOffset": 124685,
                     "endLine": 1604,
                     "endColumn": 12,
-                    "endOffset": 124821
+                    "endOffset": 124824
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6895,10 +6895,10 @@
                 "to": {
                     "startLine": 1605,
                     "startColumn": 4,
-                    "startOffset": 124826,
+                    "startOffset": 124829,
                     "endLine": 1606,
                     "endColumn": 12,
-                    "endOffset": 124949
+                    "endOffset": 124952
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6908,9 +6908,9 @@
                 "to": {
                     "startLine": 1607,
                     "startColumn": 4,
-                    "startOffset": 124954,
+                    "startOffset": 124957,
                     "endColumn": 68,
-                    "endOffset": 125018
+                    "endOffset": 125021
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6920,9 +6920,9 @@
                 "to": {
                     "startLine": 1608,
                     "startColumn": 4,
-                    "startOffset": 125023,
+                    "startOffset": 125026,
                     "endColumn": 94,
-                    "endOffset": 125113
+                    "endOffset": 125116
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6932,9 +6932,9 @@
                 "to": {
                     "startLine": 1609,
                     "startColumn": 4,
-                    "startOffset": 125118,
+                    "startOffset": 125121,
                     "endColumn": 114,
-                    "endOffset": 125228
+                    "endOffset": 125231
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6944,9 +6944,9 @@
                 "to": {
                     "startLine": 1610,
                     "startColumn": 4,
-                    "startOffset": 125233,
+                    "startOffset": 125236,
                     "endColumn": 112,
-                    "endOffset": 125341
+                    "endOffset": 125344
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6956,9 +6956,9 @@
                 "to": {
                     "startLine": 1611,
                     "startColumn": 4,
-                    "startOffset": 125346,
+                    "startOffset": 125349,
                     "endColumn": 98,
-                    "endOffset": 125440
+                    "endOffset": 125443
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6968,9 +6968,9 @@
                 "to": {
                     "startLine": 1612,
                     "startColumn": 4,
-                    "startOffset": 125445,
+                    "startOffset": 125448,
                     "endColumn": 108,
-                    "endOffset": 125549
+                    "endOffset": 125552
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6980,9 +6980,9 @@
                 "to": {
                     "startLine": 1613,
                     "startColumn": 4,
-                    "startOffset": 125554,
+                    "startOffset": 125557,
                     "endColumn": 110,
-                    "endOffset": 125660
+                    "endOffset": 125663
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6992,9 +6992,9 @@
                 "to": {
                     "startLine": 1614,
                     "startColumn": 4,
-                    "startOffset": 125665,
+                    "startOffset": 125668,
                     "endColumn": 110,
-                    "endOffset": 125771
+                    "endOffset": 125774
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7004,9 +7004,9 @@
                 "to": {
                     "startLine": 1615,
                     "startColumn": 4,
-                    "startOffset": 125776,
+                    "startOffset": 125779,
                     "endColumn": 100,
-                    "endOffset": 125872
+                    "endOffset": 125875
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7016,9 +7016,9 @@
                 "to": {
                     "startLine": 1616,
                     "startColumn": 4,
-                    "startOffset": 125877,
+                    "startOffset": 125880,
                     "endColumn": 104,
-                    "endOffset": 125977
+                    "endOffset": 125980
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7028,10 +7028,10 @@
                 "to": {
                     "startLine": 1617,
                     "startColumn": 4,
-                    "startOffset": 125982,
+                    "startOffset": 125985,
                     "endLine": 1618,
                     "endColumn": 12,
-                    "endOffset": 126089
+                    "endOffset": 126092
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7041,10 +7041,10 @@
                 "to": {
                     "startLine": 1619,
                     "startColumn": 4,
-                    "startOffset": 126094,
+                    "startOffset": 126097,
                     "endLine": 1620,
                     "endColumn": 12,
-                    "endOffset": 126219
+                    "endOffset": 126222
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7054,9 +7054,9 @@
                 "to": {
                     "startLine": 1621,
                     "startColumn": 4,
-                    "startOffset": 126224,
+                    "startOffset": 126227,
                     "endColumn": 90,
-                    "endOffset": 126310
+                    "endOffset": 126313
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7066,9 +7066,9 @@
                 "to": {
                     "startLine": 1622,
                     "startColumn": 4,
-                    "startOffset": 126315,
+                    "startOffset": 126318,
                     "endColumn": 122,
-                    "endOffset": 126433
+                    "endOffset": 126436
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7078,10 +7078,10 @@
                 "to": {
                     "startLine": 1623,
                     "startColumn": 4,
-                    "startOffset": 126438,
+                    "startOffset": 126441,
                     "endLine": 1624,
                     "endColumn": 12,
-                    "endOffset": 126545
+                    "endOffset": 126548
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7091,9 +7091,9 @@
                 "to": {
                     "startLine": 1625,
                     "startColumn": 4,
-                    "startOffset": 126550,
+                    "startOffset": 126553,
                     "endColumn": 85,
-                    "endOffset": 126631
+                    "endOffset": 126634
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7103,9 +7103,9 @@
                 "to": {
                     "startLine": 1626,
                     "startColumn": 4,
-                    "startOffset": 126636,
+                    "startOffset": 126639,
                     "endColumn": 103,
-                    "endOffset": 126735
+                    "endOffset": 126738
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7115,10 +7115,10 @@
                 "to": {
                     "startLine": 1627,
                     "startColumn": 4,
-                    "startOffset": 126740,
+                    "startOffset": 126743,
                     "endLine": 1628,
                     "endColumn": 12,
-                    "endOffset": 126843
+                    "endOffset": 126846
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7128,10 +7128,10 @@
                 "to": {
                     "startLine": 1629,
                     "startColumn": 4,
-                    "startOffset": 126848,
+                    "startOffset": 126851,
                     "endLine": 1630,
                     "endColumn": 12,
-                    "endOffset": 126943
+                    "endOffset": 126946
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7141,10 +7141,10 @@
                 "to": {
                     "startLine": 1631,
                     "startColumn": 4,
-                    "startOffset": 126948,
+                    "startOffset": 126951,
                     "endLine": 1632,
                     "endColumn": 12,
-                    "endOffset": 127061
+                    "endOffset": 127064
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7154,10 +7154,10 @@
                 "to": {
                     "startLine": 1633,
                     "startColumn": 4,
-                    "startOffset": 127066,
+                    "startOffset": 127069,
                     "endLine": 1634,
                     "endColumn": 12,
-                    "endOffset": 127165
+                    "endOffset": 127168
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7167,10 +7167,10 @@
                 "to": {
                     "startLine": 1635,
                     "startColumn": 4,
-                    "startOffset": 127170,
+                    "startOffset": 127173,
                     "endLine": 1636,
                     "endColumn": 12,
-                    "endOffset": 127269
+                    "endOffset": 127272
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7180,10 +7180,10 @@
                 "to": {
                     "startLine": 1637,
                     "startColumn": 4,
-                    "startOffset": 127274,
+                    "startOffset": 127277,
                     "endLine": 1638,
                     "endColumn": 12,
-                    "endOffset": 127395
+                    "endOffset": 127398
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7193,9 +7193,9 @@
                 "to": {
                     "startLine": 1639,
                     "startColumn": 4,
-                    "startOffset": 127400,
+                    "startOffset": 127403,
                     "endColumn": 87,
-                    "endOffset": 127483
+                    "endOffset": 127486
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7205,9 +7205,9 @@
                 "to": {
                     "startLine": 1640,
                     "startColumn": 4,
-                    "startOffset": 127488,
+                    "startOffset": 127491,
                     "endColumn": 89,
-                    "endOffset": 127573
+                    "endOffset": 127576
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7217,9 +7217,9 @@
                 "to": {
                     "startLine": 1641,
                     "startColumn": 4,
-                    "startOffset": 127578,
+                    "startOffset": 127581,
                     "endColumn": 109,
-                    "endOffset": 127683
+                    "endOffset": 127686
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7229,9 +7229,9 @@
                 "to": {
                     "startLine": 1642,
                     "startColumn": 4,
-                    "startOffset": 127688,
+                    "startOffset": 127691,
                     "endColumn": 83,
-                    "endOffset": 127767
+                    "endOffset": 127770
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7241,9 +7241,9 @@
                 "to": {
                     "startLine": 1643,
                     "startColumn": 4,
-                    "startOffset": 127772,
+                    "startOffset": 127775,
                     "endColumn": 83,
-                    "endOffset": 127851
+                    "endOffset": 127854
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7253,9 +7253,9 @@
                 "to": {
                     "startLine": 1644,
                     "startColumn": 4,
-                    "startOffset": 127856,
+                    "startOffset": 127859,
                     "endColumn": 53,
-                    "endOffset": 127905
+                    "endOffset": 127908
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7265,9 +7265,9 @@
                 "to": {
                     "startLine": 1645,
                     "startColumn": 4,
-                    "startOffset": 127910,
+                    "startOffset": 127913,
                     "endColumn": 63,
-                    "endOffset": 127969
+                    "endOffset": 127972
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7277,9 +7277,9 @@
                 "to": {
                     "startLine": 1646,
                     "startColumn": 4,
-                    "startOffset": 127974,
+                    "startOffset": 127977,
                     "endColumn": 105,
-                    "endOffset": 128075
+                    "endOffset": 128078
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7289,9 +7289,9 @@
                 "to": {
                     "startLine": 1647,
                     "startColumn": 4,
-                    "startOffset": 128080,
+                    "startOffset": 128083,
                     "endColumn": 109,
-                    "endOffset": 128185
+                    "endOffset": 128188
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7301,9 +7301,9 @@
                 "to": {
                     "startLine": 1648,
                     "startColumn": 4,
-                    "startOffset": 128190,
+                    "startOffset": 128193,
                     "endColumn": 83,
-                    "endOffset": 128269
+                    "endOffset": 128272
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7313,9 +7313,9 @@
                 "to": {
                     "startLine": 1649,
                     "startColumn": 4,
-                    "startOffset": 128274,
+                    "startOffset": 128277,
                     "endColumn": 119,
-                    "endOffset": 128389
+                    "endOffset": 128392
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -7325,10 +7325,10 @@
                 "to": {
                     "startLine": 1650,
                     "startColumn": 4,
-                    "startOffset": 128394,
+                    "startOffset": 128397,
                     "endLine": 1653,
                     "endColumn": 12,
-                    "endOffset": 128607
+                    "endOffset": 128610
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"
@@ -7338,10 +7338,10 @@
                 "to": {
                     "startLine": 1654,
                     "startColumn": 4,
-                    "startOffset": 128612,
+                    "startOffset": 128615,
                     "endLine": 1657,
                     "endColumn": 12,
-                    "endOffset": 128814
+                    "endOffset": 128817
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"
@@ -7351,10 +7351,10 @@
                 "to": {
                     "startLine": 1658,
                     "startColumn": 4,
-                    "startOffset": 128819,
+                    "startOffset": 128822,
                     "endLine": 1660,
                     "endColumn": 12,
-                    "endOffset": 128973
+                    "endOffset": 128976
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"
@@ -7364,10 +7364,10 @@
                 "to": {
                     "startLine": 1661,
                     "startColumn": 4,
-                    "startOffset": 128978,
+                    "startOffset": 128981,
                     "endLine": 1669,
                     "endColumn": 12,
-                    "endOffset": 129540
+                    "endOffset": 129543
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"
@@ -7377,10 +7377,10 @@
                 "to": {
                     "startLine": 1670,
                     "startColumn": 4,
-                    "startOffset": 129545,
+                    "startOffset": 129548,
                     "endLine": 1675,
                     "endColumn": 12,
-                    "endOffset": 129901
+                    "endOffset": 129904
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"
@@ -7390,10 +7390,10 @@
                 "to": {
                     "startLine": 1676,
                     "startColumn": 4,
-                    "startOffset": 129906,
+                    "startOffset": 129909,
                     "endLine": 1678,
                     "endColumn": 12,
-                    "endOffset": 130030
+                    "endOffset": 130033
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"
@@ -7403,10 +7403,10 @@
                 "to": {
                     "startLine": 1679,
                     "startColumn": 4,
-                    "startOffset": 130035,
+                    "startOffset": 130038,
                     "endLine": 1688,
                     "endColumn": 12,
-                    "endOffset": 130774
+                    "endOffset": 130777
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"
@@ -7416,10 +7416,10 @@
                 "to": {
                     "startLine": 1689,
                     "startColumn": 4,
-                    "startOffset": 130779,
+                    "startOffset": 130782,
                     "endLine": 1692,
                     "endColumn": 12,
-                    "endOffset": 130954
+                    "endOffset": 130957
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"
@@ -7429,10 +7429,10 @@
                 "to": {
                     "startLine": 1693,
                     "startColumn": 4,
-                    "startOffset": 130959,
+                    "startOffset": 130962,
                     "endLine": 1698,
                     "endColumn": 12,
-                    "endOffset": 131395
+                    "endOffset": 131398
                 },
                 "from": {
                     "file": "D:\\S4\\Android\\SuperSimon\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values\\values.xml"

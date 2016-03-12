@@ -2,7 +2,9 @@ package com.example.thomas.supersimon;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.os.AsyncTask;
 import android.os.Bundle;
+import android.os.SystemClock;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
@@ -18,7 +20,18 @@ import java.util.Timer;
 import java.util.TimerTask;
 import java.util.concurrent.ThreadLocalRandom;
 
+import java.util.Timer;
+import java.util.TimerTask;
+
 public class FacileActivity extends AppCompatActivity {
+
+    //timer
+    private long startTime = 0L;
+    private Handler customHandler = new Handler();
+    long timeInMilliseconds = 0L;
+    long timeSwapBuff = 0L;
+    long updatedTime = 0L;
+
 
     //nb boutons
     final static int MIN = 1;
@@ -66,14 +79,7 @@ public class FacileActivity extends AppCompatActivity {
         btnVert.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                btnVert.setBackgroundColor(getResources().getColor(R.color.vertClique));
-                final Handler handler = new Handler();
-                handler.postDelayed(new Runnable() {
-                    @Override
-                    public void run() {
-                        btnVert.setBackgroundColor(getResources().getColor(R.color.vert));
-                    }
-                }, 100);
+                clignoter(btnVert);
 
                 //verif
                 verif(btnVert);
@@ -83,14 +89,7 @@ public class FacileActivity extends AppCompatActivity {
         btnRouge.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                btnRouge.setBackgroundColor(getResources().getColor(R.color.rougeClique));
-                final Handler handler = new Handler();
-                handler.postDelayed(new Runnable() {
-                    @Override
-                    public void run() {
-                        btnRouge.setBackgroundColor(getResources().getColor(R.color.rouge));
-                    }
-                }, 100);
+                clignoter(btnRouge);
 
                 //verif
                 verif(btnRouge);
@@ -100,14 +99,7 @@ public class FacileActivity extends AppCompatActivity {
         btnJaune.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                btnJaune.setBackgroundColor(getResources().getColor(R.color.jauneClique));
-                final Handler handler = new Handler();
-                handler.postDelayed(new Runnable() {
-                    @Override
-                    public void run() {
-                        btnJaune.setBackgroundColor(getResources().getColor(R.color.jaune));
-                    }
-                }, 100);
+                clignoter(btnJaune);
 
                 //verif
                 verif(btnJaune);
@@ -117,14 +109,7 @@ public class FacileActivity extends AppCompatActivity {
         btnBleu.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                btnBleu.setBackgroundColor(getResources().getColor(R.color.bleuClique));
-                final Handler handler = new Handler();
-                handler.postDelayed(new Runnable() {
-                    @Override
-                    public void run() {
-                        btnBleu.setBackgroundColor(getResources().getColor(R.color.bleu));
-                    }
-                }, 100);
+                clignoter(btnBleu);
 
                 //verif
                 verif(btnBleu);
@@ -132,11 +117,7 @@ public class FacileActivity extends AppCompatActivity {
         });
 
 
-
-
-        tabBtns = new ArrayList<Button>();
-
-
+        tabBtns = new ArrayList<Button>();//on créé l'arraylist contenant les boutons
         System.out.println("FacileActivity.onCreate");
     }
 
@@ -268,14 +249,29 @@ public class FacileActivity extends AppCompatActivity {
         nbTours++;
     }
 
+
+
+    /*** PROBLEME ***/
+
+
     //fais clignoter les boutons de l'arraylist
     public void clignoterBtns(){
         for(int i=0;i<tabBtns.size();i++){
-            //Thread.sleep(5000);
-            clignoter(tabBtns.get(i));
+            final int j = i;
+            final Handler handler = new Handler();
+            Runnable myrunnable = (new Runnable() {
+                @Override
+                public void run() {
+                    clignoter(tabBtns.get(j)); // fonction clignoter permet de faire clignoter un bouton passé en parametre
+                }
+            });
+            handler.postDelayed(myrunnable,1000);
         }
-        boutonSupplementaire();
+        //boutonSupplementaire();
     }
+
+
+    /*** FIN PROBLEME ***/
 
     //verif du boutons cliqués
     public void verif(Button btn){
