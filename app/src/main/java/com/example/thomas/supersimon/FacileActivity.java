@@ -36,7 +36,7 @@ public class FacileActivity extends AppCompatActivity {
     public Button btnBleu;
 
 
-    private boolean en_jeu = true;
+    private boolean en_jeu = false;
     private boolean bienRepondu = false;
     private int nbClic = 0;
     private int nbTours = 0;
@@ -72,8 +72,10 @@ public class FacileActivity extends AppCompatActivity {
             public void onClick(View v) {
                 clignoter(btnVert);
 
-                //verif
-                verif(btnVert);
+                if(en_jeu){
+                    //verif
+                    verif(btnVert);
+                }
             }
         });
 
@@ -82,8 +84,10 @@ public class FacileActivity extends AppCompatActivity {
             public void onClick(View v) {
                 clignoter(btnRouge);
 
-                //verif
-                verif(btnRouge);
+                if(en_jeu){
+                    //verif
+                    verif(btnRouge);
+                }
             }
         });
 
@@ -92,8 +96,10 @@ public class FacileActivity extends AppCompatActivity {
             public void onClick(View v) {
                 clignoter(btnJaune);
 
-                //verif
-                verif(btnJaune);
+                if(en_jeu){
+                    //verif
+                    verif(btnJaune);
+                }
             }
         });
 
@@ -102,8 +108,10 @@ public class FacileActivity extends AppCompatActivity {
             public void onClick(View v) {
                 clignoter(btnBleu);
 
-                //verif
-                verif(btnBleu);
+                if(en_jeu){
+                    //verif
+                    verif(btnBleu);
+                }
             }
         });
 
@@ -154,6 +162,7 @@ public class FacileActivity extends AppCompatActivity {
 
     //jouer
     public void jouer(){
+        en_jeu = true;
         boutonSupplementaire();
 
     }
@@ -210,25 +219,21 @@ public class FacileActivity extends AppCompatActivity {
 
         if(num==0){
             //bouton Vert
-            btnVert.setText(String.valueOf(nbTours+1));
             clignoter(btnVert);
             tabBtns.add(btnVert);
         }
         else if(num==1){
             //bouton Rouge
-            btnRouge.setText(String.valueOf(nbTours+1));
             clignoter(btnRouge);
             tabBtns.add(btnRouge);
         }
         else if(num==2){
             //bouton Jaune
-            btnJaune.setText(String.valueOf(nbTours+1));
             clignoter(btnJaune);
             tabBtns.add(btnJaune);
         }
         else if(num==3){
             //bouton Bleu
-            btnBleu.setText(String.valueOf(nbTours+1));
             clignoter(btnBleu);
             tabBtns.add(btnBleu);
         }
@@ -251,7 +256,6 @@ public class FacileActivity extends AppCompatActivity {
         else if(btn == tabBtns.get(nbClic)){
             bienRepondu = true;
             nbClic ++;
-            btn.setText("wp");
         }
         else{
             fin();
@@ -266,23 +270,5 @@ public class FacileActivity extends AppCompatActivity {
         Intent intent = new Intent(this, GameOverActivity.class);
         intent.putExtra(EXTRA_GAME_OVER, nbTours);
         startActivityForResult(intent, NUMBER_OF_LAUNCHES_REQUEST);
-    }
-
-
-    /*** PROBLEME ***/
-    //fais clignoter les boutons de l'arraylist
-    public void clignoterBtns(){
-        for(int i=0;i<tabBtns.size();i++){
-            final int j = i;
-            final Handler handler = new Handler();
-            Runnable myrunnable = (new Runnable() {
-                @Override
-                public void run() {
-                    clignoter(tabBtns.get(j)); // fonction clignoter permet de faire clignoter un bouton passé en parametre
-                }
-            });
-            handler.postDelayed(myrunnable,1000);
-        }
-        //boutonSupplementaire();
     }
 }

@@ -61,7 +61,23 @@
             android:layout_weight="1"
             android:textSize="@dimen/texte"
             android:textColor="@color/blanc"
-            android:id="@+id/numScoreGO" />
+            android:id="@+id/numScoreGOF" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/texte"
+                android:textColor="@color/blanc"
+                android:id="@+id/numScoreGOM" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/texte"
+                android:textColor="@color/blanc"
+                android:id="@+id/numScoreGOD" />
 
         </LinearLayout>
 
@@ -76,16 +92,6 @@
             android:id="@+id/idButtonMenuPrincipal"
             android:background="@drawable/buttongameover"/>
 
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:text="@string/btnRejouer"
-            android:textSize="@dimen/bouton"
-            android:textStyle="bold"
-            android:textColor="@color/violet"
-            android:id="@+id/idButtonRejouer"
-            android:background="@drawable/buttongameover"/>
 
         <Space
             android:layout_width="match_parent"

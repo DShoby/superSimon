@@ -12,7 +12,9 @@ import android.widget.TextView;
 
 public class GameOverActivity extends AppCompatActivity {
 
-    private TextView numScore;
+    private TextView numScoreF;
+    private TextView numScoreM;
+    private TextView numScoreD;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,28 +28,17 @@ public class GameOverActivity extends AppCompatActivity {
             }
         });
 
-        final Button btnRejouer = (Button) findViewById(R.id.idButtonRejouer);
-        btnRejouer.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                rejouer(v);
-            }
-        });
 
-
-        Intent intent = getIntent();
-        int score = intent.getIntExtra(FacileActivity.EXTRA_GAME_OVER, 1);
-        numScore = (TextView) findViewById(R.id.numScoreGO);
-        numScore.setText(String.valueOf(score));
+        Intent intentF = getIntent();
+        int scoreF = intentF.getIntExtra(FacileActivity.EXTRA_GAME_OVER, 1);
+        numScoreF = (TextView) findViewById(R.id.numScoreGOF);
+        numScoreF.setText(String.valueOf(scoreF));
 
     }
 
     public void retour(View v) {
         Intent intentMS = new Intent(this, MainActivity.class);
         startActivity(intentMS);
-    }
-
-    public void rejouer(View v) {
-        finish();
     }
 
 }
