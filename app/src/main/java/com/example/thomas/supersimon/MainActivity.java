@@ -47,12 +47,12 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        final Button btnMeilleurScore = (Button) findViewById(R.id.idButtonMeilleurScore);
+        /*final Button btnMeilleurScore = (Button) findViewById(R.id.idButtonMeilleurScore);
         btnMeilleurScore.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 meilleurScore(v);
             }
-        });
+        });*/
 
         System.out.println("MainActivity.onCreate");
     }
@@ -131,8 +131,8 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intentDifficile);
     }
 
-    public void meilleurScore(View v){
+    /*public void meilleurScore(View v){
         Intent intentMS = new Intent(this, MeilleurScoreActivity.class);
         startActivity(intentMS);
-    }
+    }*/
 }

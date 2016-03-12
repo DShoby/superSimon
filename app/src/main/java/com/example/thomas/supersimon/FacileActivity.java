@@ -25,17 +25,9 @@ import java.util.TimerTask;
 
 public class FacileActivity extends AppCompatActivity {
 
-    //timer
-    private long startTime = 0L;
-    private Handler customHandler = new Handler();
-    long timeInMilliseconds = 0L;
-    long timeSwapBuff = 0L;
-    long updatedTime = 0L;
-
-
-    //nb boutons
-    final static int MIN = 1;
-    final static int MAX = 4;
+    //game over
+    public final static String EXTRA_GAME_OVER = "EXTRA_GAME_OVER";
+    public final static int NUMBER_OF_LAUNCHES_REQUEST = 0;
 
     //boutons de couleur
     public Button btnVert;
@@ -58,15 +50,14 @@ public class FacileActivity extends AppCompatActivity {
         final Button btnRetour = (Button) findViewById(R.id.idButtonRetour);
         btnRetour.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                //retour(v);
-                clignoterBtns();
+                retour(v);
             }
         });
 
         final Button btnJouer = (Button) findViewById(R.id.idButtonJouer);
         btnJouer.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                jouerFacile();
+                jouer();
             }
         });
 
@@ -130,14 +121,14 @@ public class FacileActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
-            System.out.println("FacileActivity.onResume");
-        }
+        System.out.println("FacileActivity.onResume");
+    }
 
-        @Override
+    @Override
     protected void onRestart() {
         super.onRestart();
         System.out.println("FacileActivity.onRestart");
-        }
+    }
 
     @Override
     protected void onPause() {
@@ -151,7 +142,7 @@ public class FacileActivity extends AppCompatActivity {
         super.onStop();
     }
 
-        @Override
+    @Override
     protected void onDestroy() {
         System.out.println("FacileActivity.onDestroy");
         super.onDestroy();
@@ -161,12 +152,8 @@ public class FacileActivity extends AppCompatActivity {
         finish();
     }
 
-    public void rejouer(View v) {
-        finish();
-    }
-
     //jouer
-    public void jouerFacile(){
+    public void jouer(){
         boutonSupplementaire();
 
     }
@@ -249,11 +236,40 @@ public class FacileActivity extends AppCompatActivity {
         nbTours++;
     }
 
+    //verif du boutons cliqués
+    public void verif(Button btn){
+        if(nbClic == tabBtns.size()-1){
+            if(btn == tabBtns.get(nbClic)) {
+                bienRepondu = true;
+                nbClic = 0;
+            }
+            else{
+                fin();
+            }
+            boutonSupplementaire();
+        }
+        else if(btn == tabBtns.get(nbClic)){
+            bienRepondu = true;
+            nbClic ++;
+            btn.setText("wp");
+        }
+        else{
+            fin();
+        }
+    }
+
+    //fin
+    public void fin(){
+        /*Intent intentMS = new Intent(this, GameOverActivity.class);
+        startActivity(intentMS);*/
+
+        Intent intent = new Intent(this, GameOverActivity.class);
+        intent.putExtra(EXTRA_GAME_OVER, nbTours);
+        startActivityForResult(intent, NUMBER_OF_LAUNCHES_REQUEST);
+    }
 
 
     /*** PROBLEME ***/
-
-
     //fais clignoter les boutons de l'arraylist
     public void clignoterBtns(){
         for(int i=0;i<tabBtns.size();i++){
@@ -269,34 +285,4 @@ public class FacileActivity extends AppCompatActivity {
         }
         //boutonSupplementaire();
     }
-
-
-    /*** FIN PROBLEME ***/
-
-    //verif du boutons cliqués
-    public void verif(Button btn){
-        if(nbClic == tabBtns.size()){
-            if(btn == tabBtns.get(nbClic)) {
-                bienRepondu = true;
-            }
-            else{
-                fin();
-            }
-            //fonction clignoterBtns + new btn
-        }
-        else if(btn == tabBtns.get(nbClic)){
-            bienRepondu = true;
-            nbClic ++;
-        }
-        else{
-            fin();
-        }
-    }
-
-    //fin
-    public void fin(){
-        Intent intentMS = new Intent(this, GameOverActivity.class);
-        startActivity(intentMS);
-    }
-
 }

@@ -58,14 +58,4 @@
         android:layout_centerHorizontal="true"
         android:layout_below="@+id/idButtonNiv2"/>
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@color/blanc"
-        android:text="@string/btnMeilleurScore"
-        android:textSize="@dimen/boutonNiveau"
-        android:id="@+id/idButtonMeilleurScore"
-        android:layout_centerHorizontal="true"
-        android:layout_below="@+id/idButtonNiv3"/>
-
 </RelativeLayout>

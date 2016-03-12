@@ -315,7 +315,7 @@
     <string name="btnNiv3_2"/>
     <string name="btnNiv3_3"/>
     <string name="btnRejouer">Jouer</string>
-    <string name="btnRetour">Clignoter</string>
+    <string name="btnRetour">Retour</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="gameover">GAME OVER</string>
     <string name="meilleurDifficile">Difficile : </string>
